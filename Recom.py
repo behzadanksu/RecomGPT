@@ -6,7 +6,8 @@ import streamlit as st
 #from components.sidebar import sidebar
 
 #openai.api_key = os.environ["OPENAI_API_KEY"] = "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"
-openai.api_key = os.getenv("OPENAI_API_KEY")
+#openai.api_key = os.getenv("OPENAI_API_KEY")
+openai_api_key = st.secrets["OPENAI_API_KEY"]
 
 st.header("RecomGPT - Generate Recommendation Letters with ChatGPT")
 
