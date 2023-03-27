@@ -1,0 +1,8524 @@
+1
+00:00:00,000 --> 00:00:05,100
+recording
+
+2
+00:00:02,940 --> 00:00:09,000
+and I would like to welcome everyone
+
+3
+00:00:05,100 --> 00:00:12,000
+again for joining us for this seminar on
+
+4
+00:00:09,000 --> 00:00:16,279
+the adversary engagement ontology
+
+5
+00:00:12,000 --> 00:00:19,260
+as uh as the announcement mentioned this
+
+6
+00:00:16,279 --> 00:00:23,279
+uh project is
+
+7
+00:00:19,260 --> 00:00:25,880
+a collaboration between miter say lab
+
+8
+00:00:23,279 --> 00:00:30,660
+and a number of other
+
+9
+00:00:25,880 --> 00:00:33,600
+organizations we just released the a
+
+10
+00:00:30,660 --> 00:00:36,180
+beta version of the address of
+
+11
+00:00:33,600 --> 00:00:39,260
+Engagement ontology and we hope that the
+
+12
+00:00:36,180 --> 00:00:42,320
+seminar today that's who's a talks today
+
+13
+00:00:39,260 --> 00:00:47,399
+will provide you with
+
+14
+00:00:42,320 --> 00:00:49,500
+some uh with an overview of why there is
+
+15
+00:00:47,399 --> 00:00:50,940
+a need for an adversary engagement
+
+16
+00:00:49,500 --> 00:00:54,360
+ontology
+
+17
+00:00:50,940 --> 00:00:56,520
+what is adversary engagement in terms of
+
+18
+00:00:54,360 --> 00:00:58,320
+cyber deception ending at all
+
+19
+00:00:56,520 --> 00:01:02,399
+and how
+
+20
+00:00:58,320 --> 00:01:04,199
+one might be able to leverage AEO
+
+21
+00:01:02,399 --> 00:01:05,820
+adversary engagement application
+
+22
+00:01:04,199 --> 00:01:11,840
+ontology
+
+23
+00:01:05,820 --> 00:01:14,700
+to attack at this engagement planning uh
+
+24
+00:01:11,840 --> 00:01:16,500
+operations and
+
+25
+00:01:14,700 --> 00:01:20,340
+uh
+
+26
+00:01:16,500 --> 00:01:23,580
+and uh intelligence collection after
+
+27
+00:01:20,340 --> 00:01:27,720
+operations after interactions today we
+
+28
+00:01:23,580 --> 00:01:28,880
+are lucky to have a wonderful lineup of
+
+29
+00:01:27,720 --> 00:01:33,380
+speakers
+
+30
+00:01:28,880 --> 00:01:35,360
+we have uh Maritza
+
+31
+00:01:33,380 --> 00:01:39,479
+Marvel
+
+32
+00:01:35,360 --> 00:01:41,360
+I hope I'm not mispronouncing uh her
+
+33
+00:01:39,479 --> 00:01:43,560
+name Marita is
+
+34
+00:01:41,360 --> 00:01:46,500
+uh from
+
+35
+00:01:43,560 --> 00:01:50,520
+the miter engage tune
+
+36
+00:01:46,500 --> 00:01:54,200
+after which uh Corey Hall the project
+
+37
+00:01:50,520 --> 00:01:58,259
+leader for cyber domain ontology will be
+
+38
+00:01:54,200 --> 00:02:01,259
+presenting an overview of what the Cyber
+
+39
+00:01:58,259 --> 00:02:04,200
+domain ontology the unified cyber
+
+40
+00:02:01,259 --> 00:02:09,560
+ontology and the application ontology
+
+41
+00:02:04,200 --> 00:02:13,340
+such as case and AE are all about
+
+42
+00:02:09,560 --> 00:02:17,400
+and this will be followed by a brief
+
+43
+00:02:13,340 --> 00:02:20,280
+introduction statement from Alex Nelson
+
+44
+00:02:17,400 --> 00:02:22,980
+from nest
+
+45
+00:02:20,280 --> 00:02:25,280
+who has been contributing to this
+
+46
+00:02:22,980 --> 00:02:29,520
+project uh with
+
+47
+00:02:25,280 --> 00:02:31,800
+uh who had quite a bit of valuable
+
+48
+00:02:29,520 --> 00:02:33,480
+feedback as well as guidance
+
+49
+00:02:31,800 --> 00:02:36,540
+and then
+
+50
+00:02:33,480 --> 00:02:39,239
+last but definitely not least
+
+51
+00:02:36,540 --> 00:02:42,599
+uh the sale team will be presenting the
+
+52
+00:02:39,239 --> 00:02:46,200
+adversary engagement ontology uh its
+
+53
+00:02:42,599 --> 00:02:50,640
+current version its structured and its
+
+54
+00:02:46,200 --> 00:02:52,920
+use case through example scenarios
+
+55
+00:02:50,640 --> 00:02:56,959
+now with that
+
+56
+00:02:52,920 --> 00:03:02,459
+um I would like to invite merita to
+
+57
+00:02:56,959 --> 00:03:05,840
+uh see if she can join her is share her
+
+58
+00:03:02,459 --> 00:03:09,180
+screen and do a quick sound check
+
+59
+00:03:05,840 --> 00:03:10,080
+can you hear me I can hear you can you
+
+60
+00:03:09,180 --> 00:03:11,819
+hear me
+
+61
+00:03:10,080 --> 00:03:14,280
+I think you need to give me permission
+
+62
+00:03:11,819 --> 00:03:15,440
+to share because uh disabled screen
+
+63
+00:03:14,280 --> 00:03:18,900
+sharing
+
+64
+00:03:15,440 --> 00:03:22,500
+it's now enabled
+
+65
+00:03:18,900 --> 00:03:25,019
+boom look at that okay hang on
+
+66
+00:03:22,500 --> 00:03:28,459
+and the floor is yours
+
+67
+00:03:25,019 --> 00:03:28,459
+can you see slide
+
+68
+00:03:28,860 --> 00:03:36,060
+oh did that work
+
+69
+00:03:31,080 --> 00:03:39,840
+yep excellent all right Martin everyone
+
+70
+00:03:36,060 --> 00:03:43,080
+knows just to let you know just delay uh
+
+71
+00:03:39,840 --> 00:03:44,459
+will be made up with the buffer time
+
+72
+00:03:43,080 --> 00:03:47,220
+we've added at the end of the schedule
+
+73
+00:03:44,459 --> 00:03:50,340
+so all of the presentations will retain
+
+74
+00:03:47,220 --> 00:03:52,799
+their original duration and length
+
+75
+00:03:50,340 --> 00:03:55,560
+perfect okay
+
+76
+00:03:52,799 --> 00:03:58,860
+um let me just all right hang up okay
+
+77
+00:03:55,560 --> 00:03:59,580
+all right so hi good morning everyone
+
+78
+00:03:58,860 --> 00:04:01,260
+um
+
+79
+00:03:59,580 --> 00:04:03,659
+I wanted to spend a few minutes today
+
+80
+00:04:01,260 --> 00:04:05,400
+talking a little bit about the way that
+
+81
+00:04:03,659 --> 00:04:08,519
+miter thinks about adversary engagement
+
+82
+00:04:05,400 --> 00:04:10,019
+and uh to talk a bit about the indeed
+
+83
+00:04:08,519 --> 00:04:11,400
+framework and
+
+84
+00:04:10,019 --> 00:04:13,200
+um where it came from and where we're
+
+85
+00:04:11,400 --> 00:04:14,939
+going with it and the resources that are
+
+86
+00:04:13,200 --> 00:04:18,419
+available through it so
+
+87
+00:04:14,939 --> 00:04:20,699
+um my name is I just got married that
+
+88
+00:04:18,419 --> 00:04:22,500
+might have known me as murder Market
+
+89
+00:04:20,699 --> 00:04:25,940
+um I switched because I forget half the
+
+90
+00:04:22,500 --> 00:04:25,940
+time what my new last name is um
+
+91
+00:04:26,479 --> 00:04:31,979
+so uh starting off with some definition
+
+92
+00:04:29,160 --> 00:04:33,960
+so the way that we Define all of these
+
+93
+00:04:31,979 --> 00:04:36,120
+various pieces is we like to talk about
+
+94
+00:04:33,960 --> 00:04:37,020
+revealing and concealing facts and
+
+95
+00:04:36,120 --> 00:04:39,479
+fiction
+
+96
+00:04:37,020 --> 00:04:40,979
+um this is a concept you
+
+97
+00:04:39,479 --> 00:04:43,620
+if you've cyber denial the question in
+
+98
+00:04:40,979 --> 00:04:45,780
+counter deception a book that came out
+
+99
+00:04:43,620 --> 00:04:48,000
+um a little ways back at this point they
+
+100
+00:04:45,780 --> 00:04:49,860
+have a great broad chart in there where
+
+101
+00:04:48,000 --> 00:04:51,900
+they really break out these concepts by
+
+102
+00:04:49,860 --> 00:04:53,759
+the same lines and so um we thought it
+
+103
+00:04:51,900 --> 00:04:55,199
+was really important to refer back to
+
+104
+00:04:53,759 --> 00:04:57,240
+that book and kind of make that the
+
+105
+00:04:55,199 --> 00:04:58,979
+basis of a lot of the things
+
+106
+00:04:57,240 --> 00:05:01,139
+um and how we talk about and how we
+
+107
+00:04:58,979 --> 00:05:02,460
+Define these various Concepts so um
+
+108
+00:05:01,139 --> 00:05:04,500
+quick shout out to that book and again
+
+109
+00:05:02,460 --> 00:05:06,419
+it's fiber denial question encounter
+
+110
+00:05:04,500 --> 00:05:08,220
+deception uh written by a number of
+
+111
+00:05:06,419 --> 00:05:10,620
+minor folks including Frank deck and
+
+112
+00:05:08,220 --> 00:05:11,880
+Kristen Heckman and Alex though and it's
+
+113
+00:05:10,620 --> 00:05:14,220
+a really great read and if you haven't
+
+114
+00:05:11,880 --> 00:05:16,500
+read it I highly recommend it so
+
+115
+00:05:14,220 --> 00:05:19,139
+starting with some definition so we talk
+
+116
+00:05:16,500 --> 00:05:21,600
+about fiber denial those are revealing
+
+117
+00:05:19,139 --> 00:05:23,699
+conviction to prevent or impair an
+
+118
+00:05:21,600 --> 00:05:25,680
+adversary of operation on the other side
+
+119
+00:05:23,699 --> 00:05:27,960
+of that we have private detection here
+
+120
+00:05:25,680 --> 00:05:30,600
+we're talking about feeling the fact in
+
+121
+00:05:27,960 --> 00:05:33,060
+fiction the mislead or confused and then
+
+122
+00:05:30,600 --> 00:05:35,100
+most importantly in from engages
+
+123
+00:05:33,060 --> 00:05:37,380
+perspective is taking these two things
+
+124
+00:05:35,100 --> 00:05:39,360
+together coupling them with strategic
+
+125
+00:05:37,380 --> 00:05:42,060
+planning and Analysis and talking about
+
+126
+00:05:39,360 --> 00:05:44,220
+that as adversary engagement and we
+
+127
+00:05:42,060 --> 00:05:45,660
+think this term is really important
+
+128
+00:05:44,220 --> 00:05:47,759
+um because one of the things we see all
+
+129
+00:05:45,660 --> 00:05:49,320
+the time is there's a lot of confusion
+
+130
+00:05:47,759 --> 00:05:51,720
+there's a lot of
+
+131
+00:05:49,320 --> 00:05:53,880
+um it's misunderstandings around the
+
+132
+00:05:51,720 --> 00:05:55,800
+word deception when you go into
+
+133
+00:05:53,880 --> 00:05:58,560
+government and DOD spaces military
+
+134
+00:05:55,800 --> 00:06:01,199
+deception as sort of very specific
+
+135
+00:05:58,560 --> 00:06:02,880
+meanings and very specific context in
+
+136
+00:06:01,199 --> 00:06:05,039
+the private sector you know there's a
+
+137
+00:06:02,880 --> 00:06:07,680
+lot of confusion with is deception lying
+
+138
+00:06:05,039 --> 00:06:09,300
+is deception uh misinformation right no
+
+139
+00:06:07,680 --> 00:06:10,800
+one wants to be on the cover of the
+
+140
+00:06:09,300 --> 00:06:12,600
+Washington Post
+
+141
+00:06:10,800 --> 00:06:15,300
+um with my company does misinformation
+
+142
+00:06:12,600 --> 00:06:17,580
+right that's not what anyone wants so
+
+143
+00:06:15,300 --> 00:06:19,620
+there's a lot of just um
+
+144
+00:06:17,580 --> 00:06:21,720
+like I said misunderstandings tracked
+
+145
+00:06:19,620 --> 00:06:23,580
+around using cyber deception and so for
+
+146
+00:06:21,720 --> 00:06:25,740
+this reason we really like to talk about
+
+147
+00:06:23,580 --> 00:06:27,479
+things as adversary engagement because
+
+148
+00:06:25,740 --> 00:06:29,639
+we feel like that really gets to the
+
+149
+00:06:27,479 --> 00:06:31,740
+heart of what we're trying to do and
+
+150
+00:06:29,639 --> 00:06:33,660
+also takes away some of that confusion
+
+151
+00:06:31,740 --> 00:06:35,160
+around the negativity associated with
+
+152
+00:06:33,660 --> 00:06:37,860
+perfection
+
+153
+00:06:35,160 --> 00:06:39,720
+so now that we've sort of defined
+
+154
+00:06:37,860 --> 00:06:41,220
+um the Nile interception and adversary
+
+155
+00:06:39,720 --> 00:06:43,020
+engagement talked about the concealing
+
+156
+00:06:41,220 --> 00:06:44,520
+and revealing fact I wanted to give a
+
+157
+00:06:43,020 --> 00:06:46,139
+couple of examples of what they could
+
+158
+00:06:44,520 --> 00:06:47,940
+really look like and what this means and
+
+159
+00:06:46,139 --> 00:06:51,360
+how this might show up in other things
+
+160
+00:06:47,940 --> 00:06:54,000
+outside of just the fiber Realm
+
+161
+00:06:51,360 --> 00:06:55,740
+a little there we go so um I can't see
+
+162
+00:06:54,000 --> 00:06:56,880
+anyone but we'll do a show in Virtual
+
+163
+00:06:55,740 --> 00:06:58,020
+hand
+
+164
+00:06:56,880 --> 00:06:58,919
+um even though I can't believe that's
+
+165
+00:06:58,020 --> 00:07:01,740
+okay
+
+166
+00:06:58,919 --> 00:07:04,500
+um who has ever put a this house
+
+167
+00:07:01,740 --> 00:07:06,060
+protected by or beware of Dom's fine out
+
+168
+00:07:04,500 --> 00:07:07,620
+front of their house
+
+169
+00:07:06,060 --> 00:07:09,240
+right so that's a great example of
+
+170
+00:07:07,620 --> 00:07:11,699
+revealing facts and telling something
+
+171
+00:07:09,240 --> 00:07:14,340
+that is true about that house or about
+
+172
+00:07:11,699 --> 00:07:16,080
+you know that business or whatever it is
+
+173
+00:07:14,340 --> 00:07:17,940
+what about put their lights on a timer
+
+174
+00:07:16,080 --> 00:07:20,880
+when they went on vacation or left music
+
+175
+00:07:17,940 --> 00:07:22,259
+playing when you left the house
+
+176
+00:07:20,880 --> 00:07:24,780
+well that's an example of revealing
+
+177
+00:07:22,259 --> 00:07:26,400
+effect no one's actually home but you're
+
+178
+00:07:24,780 --> 00:07:27,599
+in some way
+
+179
+00:07:26,400 --> 00:07:29,280
+um you know making it look like
+
+180
+00:07:27,599 --> 00:07:31,500
+someone's home I like to think about the
+
+181
+00:07:29,280 --> 00:07:33,060
+the scene in Home Alone when the they
+
+182
+00:07:31,500 --> 00:07:34,500
+set up that whole big party and they
+
+183
+00:07:33,060 --> 00:07:35,639
+have all the it looks like there's a
+
+184
+00:07:34,500 --> 00:07:37,740
+whole group of people in there and it's
+
+185
+00:07:35,639 --> 00:07:40,680
+just that one little kid
+
+186
+00:07:37,740 --> 00:07:43,199
+what about hidden a key in a fake rock
+
+187
+00:07:40,680 --> 00:07:45,120
+what's concealing a fact
+
+188
+00:07:43,199 --> 00:07:47,099
+and finally you forgot to write a paper
+
+189
+00:07:45,120 --> 00:07:48,599
+in school so you write the first page
+
+190
+00:07:47,099 --> 00:07:50,699
+only you staple it to a bunch of blank
+
+191
+00:07:48,599 --> 00:07:51,900
+pages you rip off the blank pages and
+
+192
+00:07:50,699 --> 00:07:52,979
+then you tell your people I don't know
+
+193
+00:07:51,900 --> 00:07:56,400
+what happened they must have gotten
+
+194
+00:07:52,979 --> 00:07:57,960
+[ __ ] no that one's just me okay
+
+195
+00:07:56,400 --> 00:08:00,000
+um well that would be concealing
+
+196
+00:07:57,960 --> 00:08:03,479
+affected and since we're doing this at a
+
+197
+00:08:00,000 --> 00:08:04,740
+university I don't endorse this
+
+198
+00:08:03,479 --> 00:08:06,479
+um but all these different things are
+
+199
+00:08:04,740 --> 00:08:08,160
+just meant to sort of show how do we
+
+200
+00:08:06,479 --> 00:08:10,380
+think about concealing and revealing
+
+201
+00:08:08,160 --> 00:08:11,759
+facts and fiction and as we go on we can
+
+202
+00:08:10,380 --> 00:08:13,440
+think a little bit more about what does
+
+203
+00:08:11,759 --> 00:08:15,660
+that look like in fiber
+
+204
+00:08:13,440 --> 00:08:17,819
+I just want to provide a couple other um
+
+205
+00:08:15,660 --> 00:08:19,740
+sort of mental models to wrap our brains
+
+206
+00:08:17,819 --> 00:08:21,780
+around how this could look and what the
+
+207
+00:08:19,740 --> 00:08:24,479
+usefulness are what the youthfulness is
+
+208
+00:08:21,780 --> 00:08:25,199
+of some of these things so
+
+209
+00:08:24,479 --> 00:08:27,120
+um
+
+210
+00:08:25,199 --> 00:08:29,699
+let's talk about aware of Waldo puzzle
+
+211
+00:08:27,120 --> 00:08:30,720
+right in Where's Waldo your job if you
+
+212
+00:08:29,699 --> 00:08:32,219
+haven't seen one of these before right
+
+213
+00:08:30,720 --> 00:08:34,140
+is to find the little guy with the hat
+
+214
+00:08:32,219 --> 00:08:35,580
+and I meant to find him before this and
+
+215
+00:08:34,140 --> 00:08:36,599
+I totally forgot to so he's here
+
+216
+00:08:35,580 --> 00:08:38,640
+somewhere
+
+217
+00:08:36,599 --> 00:08:42,419
+um but what makes it really hard to find
+
+218
+00:08:38,640 --> 00:08:44,039
+Waldo has nothing to do with Waldo and
+
+219
+00:08:42,419 --> 00:08:45,899
+everything to do with Waldo's
+
+220
+00:08:44,039 --> 00:08:47,640
+environment right you have the keys to
+
+221
+00:08:45,899 --> 00:08:49,260
+the kingdom if you will and yet you
+
+222
+00:08:47,640 --> 00:08:51,060
+still can't find Waldo because there's
+
+223
+00:08:49,260 --> 00:08:53,100
+all the colors they're similar patterns
+
+224
+00:08:51,060 --> 00:08:54,839
+there's lots of noise in the same way
+
+225
+00:08:53,100 --> 00:08:57,420
+when we think about our cyber
+
+226
+00:08:54,839 --> 00:08:59,459
+environments right now if there's an
+
+227
+00:08:57,420 --> 00:09:01,200
+intrusion and someone get through all of
+
+228
+00:08:59,459 --> 00:09:03,240
+our layers of you know defense and depth
+
+229
+00:09:01,200 --> 00:09:05,160
+and they make it through to have the
+
+230
+00:09:03,240 --> 00:09:07,440
+keys to the kingdom if you will
+
+231
+00:09:05,160 --> 00:09:09,600
+um if one right they have access to data
+
+232
+00:09:07,440 --> 00:09:11,519
+they have access to you know crown
+
+233
+00:09:09,600 --> 00:09:13,500
+jewels and critical asset
+
+234
+00:09:11,519 --> 00:09:15,959
+um but how could we turn the table how
+
+235
+00:09:13,500 --> 00:09:19,200
+can we bad ambiguity to the environment
+
+236
+00:09:15,959 --> 00:09:21,120
+make that process of I'm in but I don't
+
+237
+00:09:19,200 --> 00:09:23,820
+necessarily have a full understanding or
+
+238
+00:09:21,120 --> 00:09:25,440
+a full picture easily quickly and how do
+
+239
+00:09:23,820 --> 00:09:27,779
+I kind of ramp up and adjust that
+
+240
+00:09:25,440 --> 00:09:29,100
+ambiguity on the flip side there might
+
+241
+00:09:27,779 --> 00:09:31,560
+also be times where we want to lower
+
+242
+00:09:29,100 --> 00:09:33,480
+that ambiguity right so if we're setting
+
+243
+00:09:31,560 --> 00:09:35,220
+up Honeypot or if we're setting up areas
+
+244
+00:09:33,480 --> 00:09:36,959
+of our Network that we know are highly
+
+245
+00:09:35,220 --> 00:09:38,880
+monitored or we have suppliers or
+
+246
+00:09:36,959 --> 00:09:40,620
+whatever it might be then maybe we want
+
+247
+00:09:38,880 --> 00:09:42,779
+to turn down the ambiguity in those
+
+248
+00:09:40,620 --> 00:09:44,459
+environments make our adversary feel a
+
+249
+00:09:42,779 --> 00:09:47,100
+little bit more comfortable like you're
+
+250
+00:09:44,459 --> 00:09:48,660
+going to go that way lead them towards
+
+251
+00:09:47,100 --> 00:09:50,279
+the things that don't matter in a way
+
+252
+00:09:48,660 --> 00:09:52,019
+for nothing to do so we can start
+
+253
+00:09:50,279 --> 00:09:54,000
+thinking about this as a knob of how do
+
+254
+00:09:52,019 --> 00:09:55,740
+we increase the ambiguity to protect
+
+255
+00:09:54,000 --> 00:09:57,480
+what's valuable and decrease the
+
+256
+00:09:55,740 --> 00:10:00,360
+ambiguity in places that we want to move
+
+257
+00:09:57,480 --> 00:10:02,279
+the adversary towards
+
+258
+00:10:00,360 --> 00:10:04,500
+um so here I have two pictures of a park
+
+259
+00:10:02,279 --> 00:10:07,140
+your job is to get from the side of the
+
+260
+00:10:04,500 --> 00:10:09,240
+park Iran to the other side of the park
+
+261
+00:10:07,140 --> 00:10:11,399
+um again I can't actually become any
+
+262
+00:10:09,240 --> 00:10:12,839
+presentation mode be any hand but um
+
+263
+00:10:11,399 --> 00:10:14,220
+let's pretend that you guys are raising
+
+264
+00:10:12,839 --> 00:10:15,660
+him how many people are going to take
+
+265
+00:10:14,220 --> 00:10:16,920
+the path on the right
+
+266
+00:10:15,660 --> 00:10:19,320
+and how many people are going to take
+
+267
+00:10:16,920 --> 00:10:20,880
+the path on the left so
+
+268
+00:10:19,320 --> 00:10:23,220
+um most times when I can see the
+
+269
+00:10:20,880 --> 00:10:24,720
+audience uh the answer here is that most
+
+270
+00:10:23,220 --> 00:10:27,120
+people are going to take
+
+271
+00:10:24,720 --> 00:10:29,760
+um that path in the left why it's well
+
+272
+00:10:27,120 --> 00:10:31,339
+lit it has a it has nice clear guide
+
+273
+00:10:29,760 --> 00:10:34,920
+rails right I can see where I'm going
+
+274
+00:10:31,339 --> 00:10:36,959
+and I feel more comfortable never have I
+
+275
+00:10:34,920 --> 00:10:39,000
+had someone say I'm going to across the
+
+276
+00:10:36,959 --> 00:10:40,380
+graph right just the fact that I put a
+
+277
+00:10:39,000 --> 00:10:42,300
+path in front of you and said get from
+
+278
+00:10:40,380 --> 00:10:44,640
+one side to the other most are going to
+
+279
+00:10:42,300 --> 00:10:46,380
+gravitate towards that path so how do we
+
+280
+00:10:44,640 --> 00:10:49,260
+again think about that same thing in the
+
+281
+00:10:46,380 --> 00:10:51,180
+Fiber space how do we create a well-lit
+
+282
+00:10:49,260 --> 00:10:52,920
+comfortable path so that the adversary
+
+283
+00:10:51,180 --> 00:10:54,779
+will move in the ways that we want them
+
+284
+00:10:52,920 --> 00:10:56,040
+to and those are the places that we're
+
+285
+00:10:54,779 --> 00:10:58,440
+going to again be
+
+286
+00:10:56,040 --> 00:10:59,940
+um high levels of monitoring we're going
+
+287
+00:10:58,440 --> 00:11:02,040
+to have tripwires we're going to feel
+
+288
+00:10:59,940 --> 00:11:04,140
+like we're well defended and make the
+
+289
+00:11:02,040 --> 00:11:06,240
+places that we we don't want them to go
+
+290
+00:11:04,140 --> 00:11:07,860
+near our Crown duels or around the
+
+291
+00:11:06,240 --> 00:11:09,839
+places that you know that system that's
+
+292
+00:11:07,860 --> 00:11:11,399
+been on the network for forever and you
+
+293
+00:11:09,839 --> 00:11:13,320
+know we just can't patch it because it
+
+294
+00:11:11,399 --> 00:11:15,240
+was made by one manufacturer that is now
+
+295
+00:11:13,320 --> 00:11:17,160
+out of business and it's critical to our
+
+296
+00:11:15,240 --> 00:11:18,480
+manufacturing company and I've seen that
+
+297
+00:11:17,160 --> 00:11:20,160
+happen in the real world
+
+298
+00:11:18,480 --> 00:11:23,220
+um how do we make that look like the
+
+299
+00:11:20,160 --> 00:11:25,380
+dark and scary pop and make the the area
+
+300
+00:11:23,220 --> 00:11:26,700
+that we can defend look like that knife
+
+301
+00:11:25,380 --> 00:11:28,800
+well lit path
+
+302
+00:11:26,700 --> 00:11:29,640
+so we'll talk a little bit more now
+
+303
+00:11:28,800 --> 00:11:30,720
+about
+
+304
+00:11:29,640 --> 00:11:32,579
+um now that we have sort of an
+
+305
+00:11:30,720 --> 00:11:34,620
+understanding of what why we want to do
+
+306
+00:11:32,579 --> 00:11:36,839
+this and what this could look like about
+
+307
+00:11:34,620 --> 00:11:39,060
+the goals of adversary engagement and
+
+308
+00:11:36,839 --> 00:11:40,680
+one of the big principles behind miter
+
+309
+00:11:39,060 --> 00:11:42,180
+engage is that everything needs to be
+
+310
+00:11:40,680 --> 00:11:43,680
+goal driven
+
+311
+00:11:42,180 --> 00:11:45,240
+um oftentimes when we're talking to
+
+312
+00:11:43,680 --> 00:11:47,399
+organizations that are trying to start
+
+313
+00:11:45,240 --> 00:11:49,740
+using deception or adversary engagement
+
+314
+00:11:47,399 --> 00:11:51,480
+and we ask why if the answer is
+
+315
+00:11:49,740 --> 00:11:53,579
+something along the lines of
+
+316
+00:11:51,480 --> 00:11:54,720
+sounds good it sounds useful it sounds
+
+317
+00:11:53,579 --> 00:11:56,700
+cool
+
+318
+00:11:54,720 --> 00:11:58,380
+um and it's not goal driven right if we
+
+319
+00:11:56,700 --> 00:12:00,600
+think about the history of detection
+
+320
+00:11:58,380 --> 00:12:03,120
+from a military perspective no military
+
+321
+00:12:00,600 --> 00:12:05,040
+commander in in history whatever say
+
+322
+00:12:03,120 --> 00:12:07,500
+they're using deception for deception's
+
+323
+00:12:05,040 --> 00:12:09,839
+sake deception is always about having a
+
+324
+00:12:07,500 --> 00:12:11,519
+goal and it's the tool you're using to
+
+325
+00:12:09,839 --> 00:12:13,980
+get there and so we like to adopt that
+
+326
+00:12:11,519 --> 00:12:15,060
+same model when it comes to adversary
+
+327
+00:12:13,980 --> 00:12:17,160
+engagement
+
+328
+00:12:15,060 --> 00:12:20,399
+so we break things down into three kind
+
+329
+00:12:17,160 --> 00:12:22,320
+of categories of goals the first one is
+
+330
+00:12:20,399 --> 00:12:24,120
+we want it with both adversaries that
+
+331
+00:12:22,320 --> 00:12:26,279
+are already operating on our Network by
+
+332
+00:12:24,120 --> 00:12:28,019
+triggering High Fidelity alert this is
+
+333
+00:12:26,279 --> 00:12:29,700
+kind of probably the most obvious use
+
+334
+00:12:28,019 --> 00:12:31,260
+case of that with their engagement is
+
+335
+00:12:29,700 --> 00:12:32,279
+where a lot of the vendor space is
+
+336
+00:12:31,260 --> 00:12:33,959
+playing
+
+337
+00:12:32,279 --> 00:12:35,880
+um and it's one of the sort of easy
+
+338
+00:12:33,959 --> 00:12:38,279
+entry points because it kind of it just
+
+339
+00:12:35,880 --> 00:12:39,660
+makes sense when we think about what
+
+340
+00:12:38,279 --> 00:12:42,060
+we're trying to do and how we're trying
+
+341
+00:12:39,660 --> 00:12:44,100
+to do it right you can put deceptive
+
+342
+00:12:42,060 --> 00:12:46,079
+documents that when you open them we'll
+
+343
+00:12:44,100 --> 00:12:48,720
+send an alert you could have detective
+
+344
+00:12:46,079 --> 00:12:51,600
+users or video users on your network but
+
+345
+00:12:48,720 --> 00:12:54,180
+if someone tried to use a password or
+
+346
+00:12:51,600 --> 00:12:57,000
+login at that user you get an alert you
+
+347
+00:12:54,180 --> 00:12:58,680
+can put decoy credentials around
+
+348
+00:12:57,000 --> 00:13:00,540
+um around an environment and if one of
+
+349
+00:12:58,680 --> 00:13:02,279
+those credentials gets you you have a
+
+350
+00:13:00,540 --> 00:13:04,380
+high fidelity alert right so think about
+
+351
+00:13:02,279 --> 00:13:05,880
+these different ways that we can have a
+
+352
+00:13:04,380 --> 00:13:07,860
+high level of confidence that if
+
+353
+00:13:05,880 --> 00:13:10,560
+something is triggering that alert
+
+354
+00:13:07,860 --> 00:13:11,820
+something bad is happening
+
+355
+00:13:10,560 --> 00:13:13,440
+um one of the interesting things there
+
+356
+00:13:11,820 --> 00:13:15,600
+as well is that even when it's not
+
+357
+00:13:13,440 --> 00:13:17,760
+something really bad so for example
+
+358
+00:13:15,600 --> 00:13:19,620
+those decoy documents are even putting a
+
+359
+00:13:17,760 --> 00:13:23,760
+decoy Network there so let's say on our
+
+360
+00:13:19,620 --> 00:13:25,740
+CEO desktop we put a share that says you
+
+361
+00:13:23,760 --> 00:13:27,600
+know my tax document or something like
+
+362
+00:13:25,740 --> 00:13:29,940
+that and we have a bunch of what looks
+
+363
+00:13:27,600 --> 00:13:31,620
+like personal data well even if a
+
+364
+00:13:29,940 --> 00:13:33,600
+legitimate employee is touching that
+
+365
+00:13:31,620 --> 00:13:35,940
+chair it still probably warrants the
+
+366
+00:13:33,600 --> 00:13:38,820
+conversation of why are you snooping
+
+367
+00:13:35,940 --> 00:13:40,380
+around the CEO's desktop so really
+
+368
+00:13:38,820 --> 00:13:42,600
+providing us with not just an
+
+369
+00:13:40,380 --> 00:13:44,880
+understanding of what's bad but also
+
+370
+00:13:42,600 --> 00:13:47,700
+helping to inform maybe any
+
+371
+00:13:44,880 --> 00:13:50,279
+um Behavior that's just unwanted
+
+372
+00:13:47,700 --> 00:13:52,380
+the second one is about affecting an
+
+373
+00:13:50,279 --> 00:13:54,540
+adversary type of operation in some way
+
+374
+00:13:52,380 --> 00:13:56,700
+that protects your organization by
+
+375
+00:13:54,540 --> 00:13:58,860
+either decreasing the damage or scope of
+
+376
+00:13:56,700 --> 00:14:01,740
+a compromise reducing future targeting
+
+377
+00:13:58,860 --> 00:14:03,600
+or disrupting malicious operation
+
+378
+00:14:01,740 --> 00:14:05,639
+to be so personally I think this is
+
+379
+00:14:03,600 --> 00:14:07,680
+where some of the real power of AdvoCare
+
+380
+00:14:05,639 --> 00:14:10,200
+engagement lies I think it's an area
+
+381
+00:14:07,680 --> 00:14:11,820
+that the vendor space is not fully
+
+382
+00:14:10,200 --> 00:14:13,560
+started playing in yet I think there's
+
+383
+00:14:11,820 --> 00:14:15,600
+some more advanced folks who are a bit
+
+384
+00:14:13,560 --> 00:14:17,579
+more mature and are starting to sort of
+
+385
+00:14:15,600 --> 00:14:19,800
+look at what this would look like in our
+
+386
+00:14:17,579 --> 00:14:22,860
+networks but we're kind of far the
+
+387
+00:14:19,800 --> 00:14:25,019
+community from that adoption of using
+
+388
+00:14:22,860 --> 00:14:28,620
+adversary engagement to do things like
+
+389
+00:14:25,019 --> 00:14:30,240
+increase ambiguity and environments or
+
+390
+00:14:28,620 --> 00:14:32,820
+um you know add uncertainty to an
+
+391
+00:14:30,240 --> 00:14:35,160
+environment or just kind of create noise
+
+392
+00:14:32,820 --> 00:14:37,019
+and backgrounds in an environment
+
+393
+00:14:35,160 --> 00:14:38,880
+and finally
+
+394
+00:14:37,019 --> 00:14:40,320
+um we have a set of goals that involved
+
+395
+00:14:38,880 --> 00:14:44,100
+a listening intelligence from an
+
+396
+00:14:40,320 --> 00:14:45,839
+adversary based on your sort of
+
+397
+00:14:44,100 --> 00:14:47,100
+contextualized timely relevant attack
+
+398
+00:14:45,839 --> 00:14:48,360
+circuit
+
+399
+00:14:47,100 --> 00:14:50,220
+um there's a number of different folks I
+
+400
+00:14:48,360 --> 00:14:52,440
+think are playing in the space typically
+
+401
+00:14:50,220 --> 00:14:54,300
+this is being done by threat and fell
+
+402
+00:14:52,440 --> 00:14:56,180
+teams who are not
+
+403
+00:14:54,300 --> 00:14:58,560
+um kind of involved with the production
+
+404
+00:14:56,180 --> 00:14:59,699
+networks and production security so this
+
+405
+00:14:58,560 --> 00:15:01,620
+is typically
+
+406
+00:14:59,699 --> 00:15:03,360
+um and sort of best practices for the
+
+407
+00:15:01,620 --> 00:15:06,019
+sort of Intel of the patient to happen
+
+408
+00:15:03,360 --> 00:15:08,279
+on isolated networks that are either
+
+409
+00:15:06,019 --> 00:15:09,779
+unattributed From Any Given organization
+
+410
+00:15:08,279 --> 00:15:11,220
+or potentially look like the
+
+411
+00:15:09,779 --> 00:15:13,260
+organization that is trying to collect
+
+412
+00:15:11,220 --> 00:15:15,779
+the threat intelligence there's some
+
+413
+00:15:13,260 --> 00:15:17,579
+great examples out there of organization
+
+414
+00:15:15,779 --> 00:15:18,480
+generating threat intelligence in this
+
+415
+00:15:17,579 --> 00:15:20,459
+way
+
+416
+00:15:18,480 --> 00:15:22,620
+I think one of the most public examples
+
+417
+00:15:20,459 --> 00:15:24,240
+is HSBC
+
+418
+00:15:22,620 --> 00:15:26,160
+um has a threat Intel theme and they
+
+419
+00:15:24,240 --> 00:15:28,620
+spoke at RFA last year
+
+420
+00:15:26,160 --> 00:15:30,839
+um as well as new con last year
+
+421
+00:15:28,620 --> 00:15:32,279
+um about their work using fiber
+
+422
+00:15:30,839 --> 00:15:35,839
+deception and adversary engagement
+
+423
+00:15:32,279 --> 00:15:35,839
+through illicit threat intelligence
+
+424
+00:15:36,060 --> 00:15:39,060
+um and this is actually I'll let me go
+
+425
+00:15:37,860 --> 00:15:40,500
+back a little bit about kind of where
+
+426
+00:15:39,060 --> 00:15:42,120
+miter got started but it actually
+
+427
+00:15:40,500 --> 00:15:44,760
+involved this threat intelligent
+
+428
+00:15:42,120 --> 00:15:47,220
+solicitation Faith so we got started in
+
+429
+00:15:44,760 --> 00:15:49,199
+adversary engagement about about 10
+
+430
+00:15:47,220 --> 00:15:51,060
+years ago at this point because we had
+
+431
+00:15:49,199 --> 00:15:52,680
+too much time spent an indicator from
+
+432
+00:15:51,060 --> 00:15:55,320
+others that weren't always relevant to
+
+433
+00:15:52,680 --> 00:15:57,899
+us it was difficult to discover much on
+
+434
+00:15:55,320 --> 00:16:00,959
+a production Network there was little to
+
+435
+00:15:57,899 --> 00:16:03,360
+no information on post compromise PCP
+
+436
+00:16:00,959 --> 00:16:05,160
+tactics techniques and procedures and
+
+437
+00:16:03,360 --> 00:16:07,800
+there were a few options for post
+
+438
+00:16:05,160 --> 00:16:09,540
+compromised infinite response so we
+
+439
+00:16:07,800 --> 00:16:11,639
+started to put a lot of effort into
+
+440
+00:16:09,540 --> 00:16:13,500
+changing the game and for us adversary
+
+441
+00:16:11,639 --> 00:16:15,180
+engagement was the way to do that and so
+
+442
+00:16:13,500 --> 00:16:17,220
+we ran an initial
+
+443
+00:16:15,180 --> 00:16:19,199
+um adversary engagement operation as a
+
+444
+00:16:17,220 --> 00:16:21,060
+result of a real compromise and from
+
+445
+00:16:19,199 --> 00:16:24,240
+that we then started to run a number of
+
+446
+00:16:21,060 --> 00:16:25,680
+operations for the subsequent years
+
+447
+00:16:24,240 --> 00:16:27,959
+um in attributed environment
+
+448
+00:16:25,680 --> 00:16:29,880
+unattributed environment we had a number
+
+449
+00:16:27,959 --> 00:16:31,320
+of different rigs that we would use in
+
+450
+00:16:29,880 --> 00:16:32,699
+order to be able to maintain these
+
+451
+00:16:31,320 --> 00:16:34,500
+operations
+
+452
+00:16:32,699 --> 00:16:36,779
+um and were able to generate a lot of
+
+453
+00:16:34,500 --> 00:16:38,940
+really valuable threat religion and so
+
+454
+00:16:36,779 --> 00:16:40,440
+actually one of our biggest sort of ways
+
+455
+00:16:38,940 --> 00:16:42,120
+of sharing the threat intelligence out
+
+456
+00:16:40,440 --> 00:16:44,399
+with the community has been through
+
+457
+00:16:42,120 --> 00:16:47,100
+attack so obviously today attack is much
+
+458
+00:16:44,399 --> 00:16:49,620
+bigger than than just accepted but the
+
+459
+00:16:47,100 --> 00:16:51,300
+initial humble beginnings of attack with
+
+460
+00:16:49,620 --> 00:16:53,100
+most of that intelligent was coming
+
+461
+00:16:51,300 --> 00:16:55,440
+through the adversary engagement
+
+462
+00:16:53,100 --> 00:16:56,820
+operations that miter was running at the
+
+463
+00:16:55,440 --> 00:16:58,380
+time we weren't talking about doing that
+
+464
+00:16:56,820 --> 00:17:00,240
+with their engagement and so we were
+
+465
+00:16:58,380 --> 00:17:03,380
+able to sort of share that information
+
+466
+00:17:00,240 --> 00:17:05,939
+out through with that without having to
+
+467
+00:17:03,380 --> 00:17:08,400
+talk about how we were getting that
+
+468
+00:17:05,939 --> 00:17:09,780
+intelligent through these operations but
+
+469
+00:17:08,400 --> 00:17:11,400
+that was sort of attack on the Lord
+
+470
+00:17:09,780 --> 00:17:14,160
+didn't but as I said attack is much
+
+471
+00:17:11,400 --> 00:17:17,819
+bigger today and has a lot more sources
+
+472
+00:17:14,160 --> 00:17:19,679
+um than just minor obviously
+
+473
+00:17:17,819 --> 00:17:21,360
+um but that was that kind of our our
+
+474
+00:17:19,679 --> 00:17:23,220
+Focus initially was was on threat
+
+475
+00:17:21,360 --> 00:17:24,720
+intelligent solicitation via adversary
+
+476
+00:17:23,220 --> 00:17:26,160
+engagement
+
+477
+00:17:24,720 --> 00:17:28,500
+um but one thing that's really important
+
+478
+00:17:26,160 --> 00:17:30,780
+to note is that adversary engagement is
+
+479
+00:17:28,500 --> 00:17:32,580
+not static adversaries change over time
+
+480
+00:17:30,780 --> 00:17:34,980
+and organization changes over time
+
+481
+00:17:32,580 --> 00:17:36,480
+Global events change over time and
+
+482
+00:17:34,980 --> 00:17:39,299
+because of that there's sort of this
+
+483
+00:17:36,480 --> 00:17:41,580
+wave of where your priorities are so for
+
+484
+00:17:39,299 --> 00:17:42,840
+example reminders beginning it was
+
+485
+00:17:41,580 --> 00:17:44,940
+really important for us to understand
+
+486
+00:17:42,840 --> 00:17:47,039
+what was going on we really needed to be
+
+487
+00:17:44,940 --> 00:17:49,440
+able to understand that threat landscape
+
+488
+00:17:47,039 --> 00:17:51,240
+but over time that might change and one
+
+489
+00:17:49,440 --> 00:17:53,039
+thing that's really important is making
+
+490
+00:17:51,240 --> 00:17:56,400
+sure that we're kind of constantly
+
+491
+00:17:53,039 --> 00:17:58,500
+understanding what is my goal today and
+
+492
+00:17:56,400 --> 00:18:01,380
+how do I make sure that I'm constantly
+
+493
+00:17:58,500 --> 00:18:02,940
+adapting and adjusting my engagement so
+
+494
+00:18:01,380 --> 00:18:05,240
+that I'm meeting whatever goal that I
+
+495
+00:18:02,940 --> 00:18:05,240
+have today
+
+496
+00:18:05,460 --> 00:18:09,419
+um and one of the things that sort of
+
+497
+00:18:07,260 --> 00:18:11,820
+this relies on is being the whole thing
+
+498
+00:18:09,419 --> 00:18:13,500
+as a goal driven process and that was
+
+499
+00:18:11,820 --> 00:18:14,940
+really the impotence for us developing
+
+500
+00:18:13,500 --> 00:18:16,500
+miter engage and wanting to put
+
+501
+00:18:14,940 --> 00:18:18,840
+something out into the community because
+
+502
+00:18:16,500 --> 00:18:21,080
+we realized that this is not like other
+
+503
+00:18:18,840 --> 00:18:23,760
+defense and depth Technologies right so
+
+504
+00:18:21,080 --> 00:18:24,960
+antivirus EDR you can kind of deploy it
+
+505
+00:18:23,760 --> 00:18:27,000
+and walk away
+
+506
+00:18:24,960 --> 00:18:28,919
+and you don't really need to put a lot
+
+507
+00:18:27,000 --> 00:18:31,020
+of thought into the process or changing
+
+508
+00:18:28,919 --> 00:18:33,780
+it over time but adversary engagement
+
+509
+00:18:31,020 --> 00:18:35,340
+does require that you do that and so we
+
+510
+00:18:33,780 --> 00:18:36,720
+wanted to create miter engage in order
+
+511
+00:18:35,340 --> 00:18:39,240
+to help with that
+
+512
+00:18:36,720 --> 00:18:40,679
+so this is the miter engage Matrix and I
+
+513
+00:18:39,240 --> 00:18:42,720
+have to apologize to everyone if you go
+
+514
+00:18:40,679 --> 00:18:44,160
+onto our website we just found out there
+
+515
+00:18:42,720 --> 00:18:46,140
+is an update
+
+516
+00:18:44,160 --> 00:18:48,900
+um over the weekend that caused a bunch
+
+517
+00:18:46,140 --> 00:18:50,580
+of our JavaScript break we are fixing it
+
+518
+00:18:48,900 --> 00:18:52,380
+um all of the data is available and I'll
+
+519
+00:18:50,580 --> 00:18:54,480
+pop the link in the chat so you can get
+
+520
+00:18:52,380 --> 00:18:55,980
+the spreadsheet of data and hopefully
+
+521
+00:18:54,480 --> 00:18:57,780
+very soon we will have all the
+
+522
+00:18:55,980 --> 00:18:59,880
+JavaScript apparently there was a
+
+523
+00:18:57,780 --> 00:19:01,919
+back-end change that happened and that
+
+524
+00:18:59,880 --> 00:19:04,080
+we weren't aware of so it is not
+
+525
+00:19:01,919 --> 00:19:05,340
+interactive at the moment but
+
+526
+00:19:04,080 --> 00:19:07,080
+ultimately
+
+527
+00:19:05,340 --> 00:19:08,460
+ordinarily you can you can go on the
+
+528
+00:19:07,080 --> 00:19:10,080
+website and click through all of these
+
+529
+00:19:08,460 --> 00:19:13,679
+different buckets and read more about
+
+530
+00:19:10,080 --> 00:19:16,260
+what sort of how we Define that specific
+
+531
+00:19:13,679 --> 00:19:17,820
+um piece of the Matrix some places where
+
+532
+00:19:16,260 --> 00:19:19,799
+we've seen references to it and things
+
+533
+00:19:17,820 --> 00:19:21,660
+like that but for now I Want to Break
+
+534
+00:19:19,799 --> 00:19:24,600
+Down The Matrix into how this really can
+
+535
+00:19:21,660 --> 00:19:26,220
+be used as a planning tool so on the end
+
+536
+00:19:24,600 --> 00:19:28,620
+we have what we talk about is our
+
+537
+00:19:26,220 --> 00:19:30,539
+strategic action this is what helps us
+
+538
+00:19:28,620 --> 00:19:32,580
+bookend our operation with strategic
+
+539
+00:19:30,539 --> 00:19:35,039
+planning and Analysis
+
+540
+00:19:32,580 --> 00:19:37,559
+in the middle we have engagement action
+
+541
+00:19:35,039 --> 00:19:40,679
+so this is how you're driving progress
+
+542
+00:19:37,559 --> 00:19:42,539
+towards the defender's strategic goal if
+
+543
+00:19:40,679 --> 00:19:44,760
+we start slicing the other way across
+
+544
+00:19:42,539 --> 00:19:46,679
+the top we have goals so these are the
+
+545
+00:19:44,760 --> 00:19:48,419
+big outcomes you're trying to achieve
+
+546
+00:19:46,679 --> 00:19:50,280
+and what's really important here is
+
+547
+00:19:48,419 --> 00:19:52,200
+everything is always viewed downwards
+
+548
+00:19:50,280 --> 00:19:54,179
+through those goals it really helps us
+
+549
+00:19:52,200 --> 00:19:55,140
+remember that this is a goal driven
+
+550
+00:19:54,179 --> 00:19:57,120
+process
+
+551
+00:19:55,140 --> 00:19:58,620
+one level down from that we that we have
+
+552
+00:19:57,120 --> 00:20:00,240
+our approaches so that's the main the
+
+553
+00:19:58,620 --> 00:20:01,260
+means that we by which you're making
+
+554
+00:20:00,240 --> 00:20:02,400
+progress
+
+555
+00:20:01,260 --> 00:20:05,340
+um you can sort of think of this as
+
+556
+00:20:02,400 --> 00:20:06,480
+analogous to a tactic an attack
+
+557
+00:20:05,340 --> 00:20:07,980
+um the reason it's just not the word
+
+558
+00:20:06,480 --> 00:20:09,900
+tactic is that when we're mapping
+
+559
+00:20:07,980 --> 00:20:11,700
+between a path and
+
+560
+00:20:09,900 --> 00:20:14,220
+um engage we're not talking about attack
+
+561
+00:20:11,700 --> 00:20:16,140
+tactics and engage tactics
+
+562
+00:20:14,220 --> 00:20:18,360
+and then finally one level down from
+
+563
+00:20:16,140 --> 00:20:19,799
+that we have activities so these are the
+
+564
+00:20:18,360 --> 00:20:22,320
+concrete technique that you're going to
+
+565
+00:20:19,799 --> 00:20:24,240
+use to make progress um and to really go
+
+566
+00:20:22,320 --> 00:20:25,980
+out your approach again this is similar
+
+567
+00:20:24,240 --> 00:20:28,320
+to a technique but for that same reason
+
+568
+00:20:25,980 --> 00:20:30,900
+we didn't want to use the same word
+
+569
+00:20:28,320 --> 00:20:33,660
+each of the activities in the center
+
+570
+00:20:30,900 --> 00:20:35,160
+um in in the engagement activities and
+
+571
+00:20:33,660 --> 00:20:37,020
+those are each map
+
+572
+00:20:35,160 --> 00:20:39,360
+s the way we think about about this is
+
+573
+00:20:37,020 --> 00:20:42,179
+that when an adversary does something so
+
+574
+00:20:39,360 --> 00:20:44,700
+pick a given decode and attack there is
+
+575
+00:20:42,179 --> 00:20:47,100
+some vulnerability that that exposes and
+
+576
+00:20:44,700 --> 00:20:49,980
+we can take advantage of that through an
+
+577
+00:20:47,100 --> 00:20:51,600
+Engaged through an Engaged activity so
+
+578
+00:20:49,980 --> 00:20:55,200
+for example
+
+579
+00:20:51,600 --> 00:20:57,360
+um fishing is one of the activities in
+
+580
+00:20:55,200 --> 00:20:58,380
+um sorry one of the technique there you
+
+581
+00:20:57,360 --> 00:21:00,240
+go I said there are different words and
+
+582
+00:20:58,380 --> 00:21:03,240
+I'm still making them a lot
+
+583
+00:21:00,240 --> 00:21:05,520
+um is one of the techniques in attack
+
+584
+00:21:03,240 --> 00:21:09,000
+when an adversary conduct fishing
+
+585
+00:21:05,520 --> 00:21:10,620
+operation they lose control of the yeah
+
+586
+00:21:09,000 --> 00:21:12,360
+the email that they are sending right if
+
+587
+00:21:10,620 --> 00:21:14,400
+it's a phishing email they have to send
+
+588
+00:21:12,360 --> 00:21:15,960
+it into your space they have no idea who
+
+589
+00:21:14,400 --> 00:21:17,400
+is on the other end actually clicking it
+
+590
+00:21:15,960 --> 00:21:19,320
+whether it's a real person whether it's
+
+591
+00:21:17,400 --> 00:21:21,299
+actually in a production Network
+
+592
+00:21:19,320 --> 00:21:23,640
+um and so the deception opportunity the
+
+593
+00:21:21,299 --> 00:21:25,620
+engagement opportunity is that you can
+
+594
+00:21:23,640 --> 00:21:28,200
+use things like lures you can use things
+
+595
+00:21:25,620 --> 00:21:30,059
+like Persona and so that's how we sort
+
+596
+00:21:28,200 --> 00:21:32,159
+of think about mapping all of these and
+
+597
+00:21:30,059 --> 00:21:33,419
+so you'll see on the attack website that
+
+598
+00:21:32,159 --> 00:21:35,100
+you're sorry on the engagement website
+
+599
+00:21:33,419 --> 00:21:36,960
+that we have all of these different
+
+600
+00:21:35,100 --> 00:21:38,700
+things that are all mapped back so you
+
+601
+00:21:36,960 --> 00:21:40,860
+can start to plan out you know these are
+
+602
+00:21:38,700 --> 00:21:42,720
+the ecos and attack that I'm most I'm
+
+603
+00:21:40,860 --> 00:21:45,799
+worried about and here's my engagement
+
+604
+00:21:42,720 --> 00:21:45,799
+space given that
+
+605
+00:21:46,020 --> 00:21:49,500
+um one thing to note is that engage is
+
+606
+00:21:47,880 --> 00:21:51,539
+not meant to be viewed as a finished
+
+607
+00:21:49,500 --> 00:21:53,460
+product we don't want to tell you how to
+
+608
+00:21:51,539 --> 00:21:54,900
+shrink wrap your engagement operations
+
+609
+00:21:53,460 --> 00:21:56,880
+because then they're not really going to
+
+610
+00:21:54,900 --> 00:21:58,320
+be useful for the community what we're
+
+611
+00:21:56,880 --> 00:22:00,000
+really trying to present is an
+
+612
+00:21:58,320 --> 00:22:02,340
+deductible set of guide rails to help
+
+613
+00:22:00,000 --> 00:22:04,620
+the community start the path forward
+
+614
+00:22:02,340 --> 00:22:07,559
+we have a number of different different
+
+615
+00:22:04,620 --> 00:22:09,179
+sort of themes of content and again it's
+
+616
+00:22:07,559 --> 00:22:11,520
+really all starting with our operation
+
+617
+00:22:09,179 --> 00:22:13,919
+how do we help the community to also
+
+618
+00:22:11,520 --> 00:22:16,020
+adopt the tech this technology space in
+
+619
+00:22:13,919 --> 00:22:17,280
+a way that is effective and most
+
+620
+00:22:16,020 --> 00:22:19,260
+productive
+
+621
+00:22:17,280 --> 00:22:20,340
+so this is going to be really quick I
+
+622
+00:22:19,260 --> 00:22:21,780
+just want to share a couple quick
+
+623
+00:22:20,340 --> 00:22:23,220
+thoughts on the future of adversary
+
+624
+00:22:21,780 --> 00:22:24,960
+engagement
+
+625
+00:22:23,220 --> 00:22:27,360
+um the miter as you can see sort of has
+
+626
+00:22:24,960 --> 00:22:30,299
+had a long history with it as I already
+
+627
+00:22:27,360 --> 00:22:32,460
+told I talked with part of that for us
+
+628
+00:22:30,299 --> 00:22:34,260
+we really want to help the community to
+
+629
+00:22:32,460 --> 00:22:36,120
+better use this technology and we're
+
+630
+00:22:34,260 --> 00:22:38,340
+really spending a lot of time and focus
+
+631
+00:22:36,120 --> 00:22:40,679
+on kind of helping this get out into the
+
+632
+00:22:38,340 --> 00:22:42,419
+public and and helping other folks be
+
+633
+00:22:40,679 --> 00:22:45,320
+able to use the technology that we used
+
+634
+00:22:42,419 --> 00:22:45,320
+for a long time
+
+635
+00:22:45,720 --> 00:22:49,020
+um for us we think that you know fiber
+
+636
+00:22:47,159 --> 00:22:50,640
+Avenue their never-ending stream and we
+
+637
+00:22:49,020 --> 00:22:53,400
+really do need
+
+638
+00:22:50,640 --> 00:22:55,380
+a killer companies below the fiber
+
+639
+00:22:53,400 --> 00:22:57,059
+poverty line are in real trouble and
+
+640
+00:22:55,380 --> 00:22:59,100
+their insecurities if everyone's
+
+641
+00:22:57,059 --> 00:23:02,100
+insecurity
+
+642
+00:22:59,100 --> 00:23:04,140
+um and threat intelligence threat to
+
+643
+00:23:02,100 --> 00:23:05,820
+intellectual property uh and critical
+
+644
+00:23:04,140 --> 00:23:07,919
+infrastructure right level of national
+
+645
+00:23:05,820 --> 00:23:10,080
+security threat
+
+646
+00:23:07,919 --> 00:23:11,460
+nope I just lost my little book you
+
+647
+00:23:10,080 --> 00:23:12,960
+think there we go
+
+648
+00:23:11,460 --> 00:23:14,700
+um and really ultimately we want to know
+
+649
+00:23:12,960 --> 00:23:17,340
+how do we look at the different problems
+
+650
+00:23:14,700 --> 00:23:18,840
+helping small companies helping um sort
+
+651
+00:23:17,340 --> 00:23:20,460
+of with direct intellectual property and
+
+652
+00:23:18,840 --> 00:23:22,440
+critical infrastructure and overall
+
+653
+00:23:20,460 --> 00:23:24,720
+drive up the cost while driving down the
+
+654
+00:23:22,440 --> 00:23:26,880
+value of adversary fiber operations and
+
+655
+00:23:24,720 --> 00:23:28,740
+this is really the focus for engage
+
+656
+00:23:26,880 --> 00:23:30,840
+um in the years to come
+
+657
+00:23:28,740 --> 00:23:32,340
+so we hypothesized that we can scale
+
+658
+00:23:30,840 --> 00:23:33,659
+this with collaboration and we really
+
+659
+00:23:32,340 --> 00:23:35,220
+believe that that's what's most
+
+660
+00:23:33,659 --> 00:23:36,840
+important we have a number of things
+
+661
+00:23:35,220 --> 00:23:38,520
+that we're doing to try to Foster that
+
+662
+00:23:36,840 --> 00:23:40,860
+collaboration this being a great example
+
+663
+00:23:38,520 --> 00:23:42,840
+of it today but we really want to help
+
+664
+00:23:40,860 --> 00:23:45,840
+though how do we go from adversary
+
+665
+00:23:42,840 --> 00:23:48,059
+engagement at an individual organization
+
+666
+00:23:45,840 --> 00:23:50,400
+maybe even looking at what this looks
+
+667
+00:23:48,059 --> 00:23:52,320
+like when a whole industry is
+
+668
+00:23:50,400 --> 00:23:53,640
+um participating in adverse or
+
+669
+00:23:52,320 --> 00:23:54,600
+engagement and you're really having
+
+670
+00:23:53,640 --> 00:23:56,580
+those
+
+671
+00:23:54,600 --> 00:23:58,679
+um more tailored and kind of
+
+672
+00:23:56,580 --> 00:24:00,539
+campaign-like structures so that you can
+
+673
+00:23:58,679 --> 00:24:02,039
+really help protect not just the
+
+674
+00:24:00,539 --> 00:24:04,380
+organizations that are able to do this
+
+675
+00:24:02,039 --> 00:24:06,360
+but all the different organizations the
+
+676
+00:24:04,380 --> 00:24:07,980
+craft and Industry that's a quick little
+
+677
+00:24:06,360 --> 00:24:10,559
+sneak peek of some of the things that
+
+678
+00:24:07,980 --> 00:24:13,500
+engage in thinking about right now and
+
+679
+00:24:10,559 --> 00:24:16,200
+the last thing I'll end on is we are
+
+680
+00:24:13,500 --> 00:24:18,840
+um about to have sort of our first set
+
+681
+00:24:16,200 --> 00:24:21,120
+of beta runs of our engaged in a box
+
+682
+00:24:18,840 --> 00:24:22,500
+this is a non-technical train the
+
+683
+00:24:21,120 --> 00:24:24,179
+trainer kit designed to help
+
+684
+00:24:22,500 --> 00:24:25,740
+organizations think differently about
+
+685
+00:24:24,179 --> 00:24:28,320
+adversary engagement who will actually
+
+686
+00:24:25,740 --> 00:24:29,460
+be at RFA in a couple weeks with one of
+
+687
+00:24:28,320 --> 00:24:31,080
+these get to talk about what we're
+
+688
+00:24:29,460 --> 00:24:32,720
+trying to do and it's really to help
+
+689
+00:24:31,080 --> 00:24:35,580
+more organizations be able to start
+
+690
+00:24:32,720 --> 00:24:37,740
+participating in using this technology
+
+691
+00:24:35,580 --> 00:24:39,299
+and to start thinking about how we can
+
+692
+00:24:37,740 --> 00:24:41,340
+make this kind of a more strategic
+
+693
+00:24:39,299 --> 00:24:43,919
+action that we can participate in to
+
+694
+00:24:41,340 --> 00:24:45,360
+help secure our our company our critical
+
+695
+00:24:43,919 --> 00:24:46,740
+infrastructure and our intellectual
+
+696
+00:24:45,360 --> 00:24:48,780
+property
+
+697
+00:24:46,740 --> 00:24:50,640
+um and with that I will I think I've
+
+698
+00:24:48,780 --> 00:24:55,559
+used up all my time so I will hand it
+
+699
+00:24:50,640 --> 00:24:55,559
+over back to I apologies
+
+700
+00:24:57,419 --> 00:25:02,299
+I think
+
+701
+00:24:59,120 --> 00:25:02,299
+for me
+
+702
+00:25:04,260 --> 00:25:09,960
+I hope everyone can hear me now I'm I'd
+
+703
+00:25:08,400 --> 00:25:13,380
+like to thank you merita this is a
+
+704
+00:25:09,960 --> 00:25:17,940
+wonderful presentation we are holding q
+
+705
+00:25:13,380 --> 00:25:20,460
+and aim for the end of the seminar uh at
+
+706
+00:25:17,940 --> 00:25:24,960
+this point I would like to ask for it
+
+707
+00:25:20,460 --> 00:25:27,960
+all the publicly for uh the Cyber domain
+
+708
+00:25:24,960 --> 00:25:30,080
+ontology project to join us
+
+709
+00:25:27,960 --> 00:25:30,080
+um
+
+710
+00:25:32,280 --> 00:25:35,339
+[Music]
+
+711
+00:25:42,539 --> 00:25:46,460
+thank you
+
+712
+00:25:43,860 --> 00:25:46,460
+yes
+
+713
+00:25:54,600 --> 00:25:59,419
+okay
+
+714
+00:25:55,860 --> 00:25:59,419
+you have to sign in here
+
+715
+00:25:59,520 --> 00:26:02,940
+very well
+
+716
+00:26:01,980 --> 00:26:05,039
+um
+
+717
+00:26:02,940 --> 00:26:08,940
+this is
+
+718
+00:26:05,039 --> 00:26:11,240
+going to take just a moment to set up no
+
+719
+00:26:08,940 --> 00:26:11,240
+worries
+
+720
+00:26:46,140 --> 00:26:48,679
+what
+
+721
+00:27:05,100 --> 00:27:08,100
+happened
+
+722
+00:27:11,340 --> 00:27:13,880
+okay
+
+723
+00:27:44,120 --> 00:27:49,760
+and if you just create your name right
+
+724
+00:27:47,460 --> 00:27:49,760
+yes
+
+725
+00:27:50,430 --> 00:27:53,489
+[Music]
+
+726
+00:27:54,260 --> 00:28:01,500
+thank you thank you very much
+
+727
+00:27:57,260 --> 00:28:04,340
+and great that all of yours great thank
+
+728
+00:28:01,500 --> 00:28:04,340
+you guys so much
+
+729
+00:28:07,020 --> 00:28:11,279
+and I can
+
+730
+00:28:08,400 --> 00:28:12,659
+wonderful thank you so much Miranda for
+
+731
+00:28:11,279 --> 00:28:16,080
+taking the time to talk to everybody
+
+732
+00:28:12,659 --> 00:28:18,059
+about the adversary engagement work that
+
+733
+00:28:16,080 --> 00:28:19,440
+you're doing so I hope everybody you
+
+734
+00:28:18,059 --> 00:28:21,480
+know was able to learn some things there
+
+735
+00:28:19,440 --> 00:28:26,039
+uh make sure that you prepare a lot of
+
+736
+00:28:21,480 --> 00:28:28,380
+questions from Loretta you know so
+
+737
+00:28:26,039 --> 00:28:30,960
+um again thanks for the opportunity to
+
+738
+00:28:28,380 --> 00:28:32,340
+come here to University of New Haven
+
+739
+00:28:30,960 --> 00:28:34,260
+um it's always a pleasure to come here
+
+740
+00:28:32,340 --> 00:28:37,200
+and work with the faculty and students
+
+741
+00:28:34,260 --> 00:28:39,539
+on different projects so straight to be
+
+742
+00:28:37,200 --> 00:28:42,720
+back thank you for hosting it and
+
+743
+00:28:39,539 --> 00:28:45,299
+and so today I I wanted to share a
+
+744
+00:28:42,720 --> 00:28:46,500
+couple remarks about an open source
+
+745
+00:28:45,299 --> 00:28:50,480
+project that I'm
+
+746
+00:28:46,500 --> 00:28:50,480
+a cyber lonely on polishing project
+
+747
+00:28:52,559 --> 00:28:56,460
+that's just a little bit about me I work
+
+748
+00:28:54,419 --> 00:28:58,620
+in the Meyer corporations and a
+
+749
+00:28:56,460 --> 00:29:00,179
+non-profit organization that supports
+
+750
+00:28:58,620 --> 00:29:03,120
+our federal government
+
+751
+00:29:00,179 --> 00:29:06,360
+and I uh one of the roles that I have
+
+752
+00:29:03,120 --> 00:29:07,980
+there is I'm a project leader of miter's
+
+753
+00:29:06,360 --> 00:29:10,140
+work at the Department of Defense cyber
+
+754
+00:29:07,980 --> 00:29:12,000
+crime Center so I appreciate my
+
+755
+00:29:10,140 --> 00:29:13,860
+colleagues from the dod cybercrime
+
+756
+00:29:12,000 --> 00:29:15,840
+Center and from this and for Meyer
+
+757
+00:29:13,860 --> 00:29:18,000
+joining us today online
+
+758
+00:29:15,840 --> 00:29:19,980
+and uh so a couple of things I've got
+
+759
+00:29:18,000 --> 00:29:23,340
+work experience across the cycle domain
+
+760
+00:29:19,980 --> 00:29:25,440
+uh just over 20 years of experience and
+
+761
+00:29:23,340 --> 00:29:29,100
+one of the things that I do uh in part
+
+762
+00:29:25,440 --> 00:29:31,559
+time is I I run a volunteer technologist
+
+763
+00:29:29,100 --> 00:29:34,980
+team at watching International which
+
+764
+00:29:31,559 --> 00:29:36,419
+creates Technologies for law enforcement
+
+765
+00:29:34,980 --> 00:29:39,059
+investigators around the world to
+
+766
+00:29:36,419 --> 00:29:42,240
+investigate crimes against children and
+
+767
+00:29:39,059 --> 00:29:44,640
+then finally I get the honor to serve as
+
+768
+00:29:42,240 --> 00:29:46,919
+the project chair for the Linux
+
+769
+00:29:44,640 --> 00:29:49,320
+foundation's cyber domain on College
+
+770
+00:29:46,919 --> 00:29:52,320
+projects
+
+771
+00:29:49,320 --> 00:29:54,059
+right so um Baseline everybody when we
+
+772
+00:29:52,320 --> 00:29:56,700
+talk about ontologies the monitor
+
+773
+00:29:54,059 --> 00:29:58,919
+Frameworks for representing shareable
+
+774
+00:29:56,700 --> 00:30:01,140
+and reusable knowledge across the domain
+
+775
+00:29:58,919 --> 00:30:02,640
+so like in the Cyber domain here like
+
+776
+00:30:01,140 --> 00:30:05,580
+just show a hands how many people work
+
+777
+00:30:02,640 --> 00:30:08,340
+in the Cyber domain are learning domain
+
+778
+00:30:05,580 --> 00:30:10,020
+okay pretty much everybody now the
+
+779
+00:30:08,340 --> 00:30:13,140
+problem is is the Cyber domain is very
+
+780
+00:30:10,020 --> 00:30:15,840
+Broad and I would argue that there are
+
+781
+00:30:13,140 --> 00:30:18,600
+at least several dozen different areas
+
+782
+00:30:15,840 --> 00:30:21,299
+of practice within the Cyber domain and
+
+783
+00:30:18,600 --> 00:30:24,059
+within each of those areas
+
+784
+00:30:21,299 --> 00:30:26,279
+we have our own unique language so maybe
+
+785
+00:30:24,059 --> 00:30:28,140
+like average of Engagement
+
+786
+00:30:26,279 --> 00:30:30,360
+uh even right at her team that are
+
+787
+00:30:28,140 --> 00:30:32,279
+working adversary engagement they still
+
+788
+00:30:30,360 --> 00:30:34,559
+get to borrow from
+
+789
+00:30:32,279 --> 00:30:37,200
+you know from a language of thousands of
+
+790
+00:30:34,559 --> 00:30:40,440
+Concepts that most cyber practitioners
+
+791
+00:30:37,200 --> 00:30:42,840
+would agree upon but then Within action
+
+792
+00:30:40,440 --> 00:30:47,880
+there's a specific language that's
+
+793
+00:30:42,840 --> 00:30:50,220
+formed to other uh uh other experts in
+
+794
+00:30:47,880 --> 00:30:52,799
+other areas of the Cyber domain
+
+795
+00:30:50,220 --> 00:30:55,200
+and so what design we're going oncology
+
+796
+00:30:52,799 --> 00:30:57,480
+project is all about is developing a
+
+797
+00:30:55,200 --> 00:30:59,159
+family of ideologies
+
+798
+00:30:57,480 --> 00:31:00,480
+um and so I'm going to talk about some
+
+799
+00:30:59,159 --> 00:31:01,799
+of these uh but some of these
+
+800
+00:31:00,480 --> 00:31:03,720
+non-publishers include what we call the
+
+801
+00:31:01,799 --> 00:31:07,559
+unified cyber oncology because our
+
+802
+00:31:03,720 --> 00:31:10,200
+middle oncology the case ontology is our
+
+803
+00:31:07,559 --> 00:31:13,580
+additional forensics oncology and then
+
+804
+00:31:10,200 --> 00:31:13,580
+today the team here at the University
+
+805
+00:31:17,100 --> 00:31:21,720
+okay so let's let's think about this in
+
+806
+00:31:19,679 --> 00:31:23,760
+a different way
+
+807
+00:31:21,720 --> 00:31:26,460
+um everybody here speaks English
+
+808
+00:31:23,760 --> 00:31:29,159
+now how many of you have traveled abroad
+
+809
+00:31:26,460 --> 00:31:33,600
+to other countries where English is also
+
+810
+00:31:29,159 --> 00:31:37,679
+been okay most of us right so when you
+
+811
+00:31:33,600 --> 00:31:39,720
+go from from the United States to the UK
+
+812
+00:31:37,679 --> 00:31:41,940
+there's a lot of shared language
+
+813
+00:31:39,720 --> 00:31:43,679
+Concepts or you can walk into a bar and
+
+814
+00:31:41,940 --> 00:31:44,940
+you can have a great conversation with
+
+815
+00:31:43,679 --> 00:31:46,740
+them
+
+816
+00:31:44,940 --> 00:31:48,860
+but somewhere in that conversation
+
+817
+00:31:46,740 --> 00:31:52,200
+they're going to start talking about
+
+818
+00:31:48,860 --> 00:31:54,659
+Concepts that you have no idea about
+
+819
+00:31:52,200 --> 00:31:56,100
+and so they may say something like oh
+
+820
+00:31:54,659 --> 00:31:57,200
+hey you know I'm gonna go back to my
+
+821
+00:31:56,100 --> 00:31:59,580
+flights
+
+822
+00:31:57,200 --> 00:32:02,039
+what the heck is a flag
+
+823
+00:31:59,580 --> 00:32:03,779
+and you have to you know you have to
+
+824
+00:32:02,039 --> 00:32:05,100
+maybe ask for some clarification you've
+
+825
+00:32:03,779 --> 00:32:07,679
+never heard that well in the United
+
+826
+00:32:05,100 --> 00:32:09,840
+States that's not perfect right and so I
+
+827
+00:32:07,679 --> 00:32:12,059
+got a list of of those like different
+
+828
+00:32:09,840 --> 00:32:15,140
+concepts and this is the same problem
+
+829
+00:32:12,059 --> 00:32:15,140
+that we have of course
+
+830
+00:32:16,260 --> 00:32:21,179
+now I wonder if you know like a specific
+
+831
+00:32:18,779 --> 00:32:25,340
+example here here on on this side we
+
+832
+00:32:21,179 --> 00:32:27,779
+thought uh the left area
+
+833
+00:32:25,340 --> 00:32:30,659
+as the fact of the cycle operations
+
+834
+00:32:27,779 --> 00:32:32,279
+maybe like Network designs uh and then
+
+835
+00:32:30,659 --> 00:32:33,720
+we got digital forensics on the other
+
+836
+00:32:32,279 --> 00:32:35,580
+side the thing about like legal
+
+837
+00:32:33,720 --> 00:32:39,360
+processes
+
+838
+00:32:35,580 --> 00:32:41,159
+and in both of these uh in both of these
+
+839
+00:32:39,360 --> 00:32:43,740
+areas I was just saying that there are
+
+840
+00:32:41,159 --> 00:32:46,080
+two two different organizations
+
+841
+00:32:43,740 --> 00:32:47,159
+um they may both employ visual forensic
+
+842
+00:32:46,080 --> 00:32:49,980
+examiners
+
+843
+00:32:47,159 --> 00:32:51,919
+so on the left hand side when you're
+
+844
+00:32:49,980 --> 00:32:54,899
+trying to detect and respond to
+
+845
+00:32:51,919 --> 00:32:56,460
+incidents at your local forensic
+
+846
+00:32:54,899 --> 00:32:57,480
+examiner is going to go through and
+
+847
+00:32:56,460 --> 00:32:59,220
+they're going to say something like hey
+
+848
+00:32:57,480 --> 00:33:01,559
+it's forensics they're running instant
+
+849
+00:32:59,220 --> 00:33:03,899
+response here's what I found I think
+
+850
+00:33:01,559 --> 00:33:05,460
+something illegal happened here they're
+
+851
+00:33:03,899 --> 00:33:07,020
+gonna go to their bosses into their
+
+852
+00:33:05,460 --> 00:33:09,000
+legal counsel and I'm going to say maybe
+
+853
+00:33:07,020 --> 00:33:10,380
+we should try to like probably you know
+
+854
+00:33:09,000 --> 00:33:11,820
+get some good government to help
+
+855
+00:33:10,380 --> 00:33:13,500
+prosecute this
+
+856
+00:33:11,820 --> 00:33:14,880
+and so they call that local police
+
+857
+00:33:13,500 --> 00:33:16,679
+department the local police department
+
+858
+00:33:14,880 --> 00:33:19,320
+sends their digital forensics and family
+
+859
+00:33:16,679 --> 00:33:21,419
+and they say oh hey you know well I need
+
+860
+00:33:19,320 --> 00:33:23,220
+to acquire forensic images from the
+
+861
+00:33:21,419 --> 00:33:25,320
+company I need to use my tools and
+
+862
+00:33:23,220 --> 00:33:27,360
+processes and basically knew everything
+
+863
+00:33:25,320 --> 00:33:30,360
+that you already did plus a little bit
+
+864
+00:33:27,360 --> 00:33:32,039
+more so give me all of your data
+
+865
+00:33:30,360 --> 00:33:32,820
+um and everything that I can do has to
+
+866
+00:33:32,039 --> 00:33:36,179
+be
+
+867
+00:33:32,820 --> 00:33:39,360
+legally offensive one repeal
+
+868
+00:33:36,179 --> 00:33:41,240
+uh because their work is going to lead
+
+869
+00:33:39,360 --> 00:33:43,440
+possibly the courtroom and testimony
+
+870
+00:33:41,240 --> 00:33:45,299
+which will then hopefully lead to
+
+871
+00:33:43,440 --> 00:33:48,179
+prosecution
+
+872
+00:33:45,299 --> 00:33:51,140
+and so even though forensic examiners we
+
+873
+00:33:48,179 --> 00:33:55,200
+work across these two they still operate
+
+874
+00:33:51,140 --> 00:33:57,899
+uh under uh different concepts and
+
+875
+00:33:55,200 --> 00:34:00,320
+different process
+
+876
+00:33:57,899 --> 00:34:04,559
+so when we go back to thinking about
+
+877
+00:34:00,320 --> 00:34:07,019
+these uh this cyber domain of discourse
+
+878
+00:34:04,559 --> 00:34:09,359
+the language that we all see
+
+879
+00:34:07,019 --> 00:34:12,599
+there's a lot of shares I were doing
+
+880
+00:34:09,359 --> 00:34:14,040
+Concepts thousands of effects
+
+881
+00:34:12,599 --> 00:34:15,540
+and then we've got these unique
+
+882
+00:34:14,040 --> 00:34:17,700
+applications
+
+883
+00:34:15,540 --> 00:34:19,560
+I'm going to go out adversary engagement
+
+884
+00:34:17,700 --> 00:34:21,359
+about digital forensics think about
+
+885
+00:34:19,560 --> 00:34:23,099
+instant response
+
+886
+00:34:21,359 --> 00:34:25,379
+and so those communities are
+
+887
+00:34:23,099 --> 00:34:30,060
+practitioners have to inherit the
+
+888
+00:34:25,379 --> 00:34:32,220
+concepts from the shared domain
+
+889
+00:34:30,060 --> 00:34:32,940
+so let me pull this out a little bit
+
+890
+00:34:32,220 --> 00:34:35,099
+more
+
+891
+00:34:32,940 --> 00:34:37,740
+so I mentioned one of the anthologies
+
+892
+00:34:35,099 --> 00:34:40,200
+that is is within the Cyber domain
+
+893
+00:34:37,740 --> 00:34:41,940
+oncology project is called the unified
+
+894
+00:34:40,200 --> 00:34:46,080
+cyber ontology
+
+895
+00:34:41,940 --> 00:34:49,560
+this is our project's middle oncology so
+
+896
+00:34:46,080 --> 00:34:53,339
+this is where we express and document
+
+897
+00:34:49,560 --> 00:34:56,040
+let's just say 80 of the concepts in the
+
+898
+00:34:53,339 --> 00:34:58,320
+Cyber domain of discourse and so these
+
+899
+00:34:56,040 --> 00:35:00,180
+are Concepts like a file
+
+900
+00:34:58,320 --> 00:35:03,060
+an IP address
+
+901
+00:35:00,180 --> 00:35:04,800
+and many many many more
+
+902
+00:35:03,060 --> 00:35:06,619
+and
+
+903
+00:35:04,800 --> 00:35:08,400
+um those things are what we call
+
+904
+00:35:06,619 --> 00:35:11,460
+observables
+
+905
+00:35:08,400 --> 00:35:14,940
+now there's a number of other Concepts
+
+906
+00:35:11,460 --> 00:35:19,579
+in here like a location or the concept
+
+907
+00:35:14,940 --> 00:35:22,859
+of a pattern of a cool invigoration
+
+908
+00:35:19,579 --> 00:35:25,560
+of data marketing we've assessed that
+
+909
+00:35:22,859 --> 00:35:27,800
+all of these Concepts up here are
+
+910
+00:35:25,560 --> 00:35:31,500
+something or they're Concepts that are
+
+911
+00:35:27,800 --> 00:35:34,760
+agree upon no matter what area of the
+
+912
+00:35:31,500 --> 00:35:34,760
+Cyber domain you work in
+
+913
+00:35:35,480 --> 00:35:43,160
+they can inherit these Concepts and then
+
+914
+00:35:39,119 --> 00:35:43,160
+reuse them in adverse navigation
+
+915
+00:35:43,859 --> 00:35:49,680
+so I want to just highlight you know a
+
+916
+00:35:46,740 --> 00:35:53,640
+few other application specific domains
+
+917
+00:35:49,680 --> 00:35:55,740
+just kind of show you how quickly we can
+
+918
+00:35:53,640 --> 00:35:58,619
+start to understand all these different
+
+919
+00:35:55,740 --> 00:36:01,200
+areas of practice within cyber so I
+
+920
+00:35:58,619 --> 00:36:03,660
+mentioned digital forensics the original
+
+921
+00:36:01,200 --> 00:36:05,820
+project science we have with the case on
+
+922
+00:36:03,660 --> 00:36:07,800
+policy for that and today we're going to
+
+923
+00:36:05,820 --> 00:36:09,900
+hear about the adversary engagement or
+
+924
+00:36:07,800 --> 00:36:11,220
+your denial Inception but there's all
+
+925
+00:36:09,900 --> 00:36:13,680
+these other things like cyber threat
+
+926
+00:36:11,220 --> 00:36:16,260
+intelligence power analysis advisors
+
+927
+00:36:13,680 --> 00:36:18,900
+management automating wallability
+
+928
+00:36:16,260 --> 00:36:21,300
+research defensive cyber operations and
+
+929
+00:36:18,900 --> 00:36:23,400
+on and on and on and on
+
+930
+00:36:21,300 --> 00:36:26,579
+so what we're trying to do here is a
+
+931
+00:36:23,400 --> 00:36:28,560
+cyber building ontology project is to
+
+932
+00:36:26,579 --> 00:36:30,780
+identify
+
+933
+00:36:28,560 --> 00:36:33,540
+uh practitioners
+
+934
+00:36:30,780 --> 00:36:35,660
+in each of these areas and then work
+
+935
+00:36:33,540 --> 00:36:37,740
+with them over time this this is like
+
+936
+00:36:35,660 --> 00:36:40,320
+over the years
+
+937
+00:36:37,740 --> 00:36:43,980
+to identify
+
+938
+00:36:40,320 --> 00:36:47,460
+the practitioners to make sure that
+
+939
+00:36:43,980 --> 00:36:49,140
+there's at least a small industry and
+
+940
+00:36:47,460 --> 00:36:51,780
+that there's some agreement about the
+
+941
+00:36:49,140 --> 00:36:55,079
+about the taxonomy or the language that
+
+942
+00:36:51,780 --> 00:36:57,300
+they use within that sub domain and then
+
+943
+00:36:55,079 --> 00:36:59,640
+we organize them and we invite them to
+
+944
+00:36:57,300 --> 00:37:03,720
+come under the cyber building oncology
+
+945
+00:36:59,640 --> 00:37:06,240
+umbrella and we start to documents and
+
+946
+00:37:03,720 --> 00:37:09,300
+that's exactly what we did was engaged
+
+947
+00:37:06,240 --> 00:37:12,300
+and we started with Beretta and her
+
+948
+00:37:09,300 --> 00:37:14,720
+team's work over many many years and
+
+949
+00:37:12,300 --> 00:37:17,880
+their collaborations with many
+
+950
+00:37:14,720 --> 00:37:20,240
+researchers vendors and practitioners
+
+951
+00:37:17,880 --> 00:37:23,280
+and they finally said hey we've got
+
+952
+00:37:20,240 --> 00:37:25,200
+engaged it's it's a it's a it's a
+
+953
+00:37:23,280 --> 00:37:27,599
+taxonomy at the end of the day that
+
+954
+00:37:25,200 --> 00:37:30,300
+expresses all those leading Concepts
+
+955
+00:37:27,599 --> 00:37:33,440
+and so we said well maybe it's time that
+
+956
+00:37:30,300 --> 00:37:37,859
+we can Implement an application oncology
+
+957
+00:37:33,440 --> 00:37:41,820
+that inherits from the universe
+
+958
+00:37:37,859 --> 00:37:43,980
+and so the point is a different way
+
+959
+00:37:41,820 --> 00:37:45,780
+we have the unified cyber ontology to
+
+960
+00:37:43,980 --> 00:37:48,780
+start middle oncology
+
+961
+00:37:45,780 --> 00:37:51,540
+and application oncology so they inherit
+
+962
+00:37:48,780 --> 00:37:55,619
+these common Concepts from the UCO
+
+963
+00:37:51,540 --> 00:37:57,359
+and uh and then when we look at the
+
+964
+00:37:55,619 --> 00:37:58,619
+application oncologies these are the
+
+965
+00:37:57,359 --> 00:38:00,599
+things that were that we're working
+
+966
+00:37:58,619 --> 00:38:02,579
+towards right now we've got one for
+
+967
+00:38:00,599 --> 00:38:06,720
+digital forensics this is key the case
+
+968
+00:38:02,579 --> 00:38:10,260
+ontology we have a brand new one uh for
+
+969
+00:38:06,720 --> 00:38:12,480
+uh deception and average that's an
+
+970
+00:38:10,260 --> 00:38:13,980
+aeonology and a couple of the things
+
+971
+00:38:12,480 --> 00:38:16,320
+that we're working on behind the scenes
+
+972
+00:38:13,980 --> 00:38:17,460
+were supply chain risk cyber threat
+
+973
+00:38:16,320 --> 00:38:20,339
+intelligence
+
+974
+00:38:17,460 --> 00:38:24,900
+so now we're also working to bring on
+
+975
+00:38:20,339 --> 00:38:26,880
+board another uh group from Asia who's
+
+976
+00:38:24,900 --> 00:38:28,200
+working on an oncology for pharmacy
+
+977
+00:38:26,880 --> 00:38:30,540
+hours
+
+978
+00:38:28,200 --> 00:38:32,099
+now we oftentimes will run into
+
+979
+00:38:30,540 --> 00:38:34,920
+organizations
+
+980
+00:38:32,099 --> 00:38:37,500
+where they say well you know this is
+
+981
+00:38:34,920 --> 00:38:40,619
+great and everything but I've got some
+
+982
+00:38:37,500 --> 00:38:43,440
+Concepts that I don't want to put in
+
+983
+00:38:40,619 --> 00:38:44,940
+Poland here uh for whatever reason it
+
+984
+00:38:43,440 --> 00:38:47,640
+could be proprietary or national
+
+985
+00:38:44,940 --> 00:38:50,400
+security related and the great thing
+
+986
+00:38:47,640 --> 00:38:52,079
+about this architecture with this with
+
+987
+00:38:50,400 --> 00:38:54,780
+the middle domain ontology and
+
+988
+00:38:52,079 --> 00:38:56,520
+application anthologies is that you can
+
+989
+00:38:54,780 --> 00:38:59,280
+very easily create your own application
+
+990
+00:38:56,520 --> 00:39:01,500
+oncology which inherits from the middle
+
+991
+00:38:59,280 --> 00:39:04,440
+oncology and then you can also borrow
+
+992
+00:39:01,500 --> 00:39:06,359
+from all the public Concepts in the
+
+993
+00:39:04,440 --> 00:39:07,200
+published application on colleges that
+
+994
+00:39:06,359 --> 00:39:09,540
+we have
+
+995
+00:39:07,200 --> 00:39:13,079
+uh so where is this where is this
+
+996
+00:39:09,540 --> 00:39:17,820
+leading right so so we want this project
+
+997
+00:39:13,079 --> 00:39:19,380
+to help the entire industry right so so
+
+998
+00:39:17,820 --> 00:39:22,440
+um I've got these gold lines up here
+
+999
+00:39:19,380 --> 00:39:25,200
+that help us sort of think through
+
+1000
+00:39:22,440 --> 00:39:27,960
+um the the mission integration between
+
+1001
+00:39:25,200 --> 00:39:30,300
+these different areas of cyber security
+
+1002
+00:39:27,960 --> 00:39:32,520
+practice so let's just start with supply
+
+1003
+00:39:30,300 --> 00:39:35,880
+chain risk I guess it's up to the buy
+
+1004
+00:39:32,520 --> 00:39:37,859
+chain risk is is looking and saying hey
+
+1005
+00:39:35,880 --> 00:39:40,079
+um yeah I'm building something I'm
+
+1006
+00:39:37,859 --> 00:39:41,359
+delivering something there's business
+
+1007
+00:39:40,079 --> 00:39:43,980
+process
+
+1008
+00:39:41,359 --> 00:39:46,920
+and perhaps there's a cyber
+
+1009
+00:39:43,980 --> 00:39:49,579
+vulnerability to somewhere in there well
+
+1010
+00:39:46,920 --> 00:39:52,200
+we didn't know about that and we made
+
+1011
+00:39:49,579 --> 00:39:54,900
+hopefully more humidity back that
+
+1012
+00:39:52,200 --> 00:39:56,940
+mitigation May cost a lot of money
+
+1013
+00:39:54,900 --> 00:40:00,060
+okay so it's not maybe something that
+
+1014
+00:39:56,940 --> 00:40:01,020
+you can go do immediately so in that
+
+1015
+00:40:00,060 --> 00:40:04,619
+regard
+
+1016
+00:40:01,020 --> 00:40:05,940
+uh the fact of the vulnerability is
+
+1017
+00:40:04,619 --> 00:40:09,119
+probably something that you want to
+
+1018
+00:40:05,940 --> 00:40:13,200
+protect or you want to deny that facts
+
+1019
+00:40:09,119 --> 00:40:16,020
+from an adversary Now where's that that
+
+1020
+00:40:13,200 --> 00:40:18,740
+brings an opportunity for a cyber denial
+
+1021
+00:40:16,020 --> 00:40:18,740
+operation
+
+1022
+00:40:28,400 --> 00:40:34,079
+alert then leads to well guess what
+
+1023
+00:40:31,859 --> 00:40:35,339
+cyber threat intelligence about the
+
+1024
+00:40:34,079 --> 00:40:39,599
+adversary
+
+1025
+00:40:35,339 --> 00:40:41,700
+uh it also provides an opportunity for
+
+1026
+00:40:39,599 --> 00:40:44,040
+digital forensics okay for digital
+
+1027
+00:40:41,700 --> 00:40:45,660
+transition instant response and all the
+
+1028
+00:40:44,040 --> 00:40:47,520
+legal process and all the stuff that
+
+1029
+00:40:45,660 --> 00:40:49,619
+we're talking about and a digital
+
+1030
+00:40:47,520 --> 00:40:53,280
+forensics that provides a technical
+
+1031
+00:40:49,619 --> 00:40:55,140
+evidence that informs anonymous
+
+1032
+00:40:53,280 --> 00:40:57,240
+right so in the real world these
+
+1033
+00:40:55,140 --> 00:40:59,160
+practitioners have to work together
+
+1034
+00:40:57,240 --> 00:41:00,839
+but for them to work together more
+
+1035
+00:40:59,160 --> 00:41:03,900
+efficiently to interoper in the future
+
+1036
+00:41:00,839 --> 00:41:06,359
+at all their tools and the processor
+
+1037
+00:41:03,900 --> 00:41:08,820
+operate we have to have this organized
+
+1038
+00:41:06,359 --> 00:41:12,720
+cyber building of discourse and that's
+
+1039
+00:41:08,820 --> 00:41:15,240
+how the ability law school together here
+
+1040
+00:41:12,720 --> 00:41:17,280
+all right and then uh this is an open
+
+1041
+00:41:15,240 --> 00:41:19,920
+source project it's really important
+
+1042
+00:41:17,280 --> 00:41:22,320
+that we have Community contributions
+
+1043
+00:41:19,920 --> 00:41:24,800
+that we have good governance and
+
+1044
+00:41:22,320 --> 00:41:24,800
+processes
+
+1045
+00:41:28,099 --> 00:41:33,480
+under the Linux foundation with three
+
+1046
+00:41:31,440 --> 00:41:35,460
+different uh committees number one we
+
+1047
+00:41:33,480 --> 00:41:37,320
+have a project steering committee which
+
+1048
+00:41:35,460 --> 00:41:40,140
+I have the honor of serving as the chair
+
+1049
+00:41:37,320 --> 00:41:42,180
+for and I following Alex Nelson this
+
+1050
+00:41:40,140 --> 00:41:43,380
+audience he's also a member of this area
+
+1051
+00:41:42,180 --> 00:41:46,320
+committee
+
+1052
+00:41:43,380 --> 00:41:48,060
+uh we have the ontology committee and
+
+1053
+00:41:46,320 --> 00:41:50,220
+then we have an option
+
+1054
+00:41:48,060 --> 00:41:52,079
+and so these are fairly straightforward
+
+1055
+00:41:50,220 --> 00:41:54,960
+names to help us kind of understand the
+
+1056
+00:41:52,079 --> 00:41:56,460
+purposes uh but the Syrian committee is
+
+1057
+00:41:54,960 --> 00:41:58,200
+really about kind of providing that
+
+1058
+00:41:56,460 --> 00:42:00,180
+tactical governance
+
+1059
+00:41:58,200 --> 00:42:01,740
+um it's what interacts with the Linux
+
+1060
+00:42:00,180 --> 00:42:03,900
+foundations that's the Strategic
+
+1061
+00:42:01,740 --> 00:42:06,359
+Direction organizes resources and
+
+1062
+00:42:03,900 --> 00:42:09,660
+manages providing life cycles
+
+1063
+00:42:06,359 --> 00:42:11,579
+depending on politics that committee is
+
+1064
+00:42:09,660 --> 00:42:14,339
+about adjudicating and implementing
+
+1065
+00:42:11,579 --> 00:42:17,280
+changes to all of the project
+
+1066
+00:42:14,339 --> 00:42:19,380
+oncologists uh it meets monthly for
+
+1067
+00:42:17,280 --> 00:42:21,720
+oncology engineering reviews provides
+
+1068
+00:42:19,380 --> 00:42:23,280
+project software and documentation and
+
+1069
+00:42:21,720 --> 00:42:25,320
+then lastly there's the adoption today
+
+1070
+00:42:23,280 --> 00:42:27,900
+and the adoption committee works with
+
+1071
+00:42:25,320 --> 00:42:29,700
+oncology at the doctors worldwide so if
+
+1072
+00:42:27,900 --> 00:42:32,099
+you have a product or research effort
+
+1073
+00:42:29,700 --> 00:42:34,500
+underway you could reach out to the
+
+1074
+00:42:32,099 --> 00:42:36,780
+adoption committee and say hey like did
+
+1075
+00:42:34,500 --> 00:42:41,579
+you have some automation for me to
+
+1076
+00:42:36,780 --> 00:42:43,140
+validate my UCL Json absolutely and so
+
+1077
+00:42:41,579 --> 00:42:45,060
+we can point that to you
+
+1078
+00:42:43,140 --> 00:42:47,520
+um you could also contribute your
+
+1079
+00:42:45,060 --> 00:42:50,660
+research outputs or your open resource
+
+1080
+00:42:47,520 --> 00:42:50,660
+tools to the adoption today
+
+1081
+00:42:51,140 --> 00:42:57,599
+you have a really simple process in
+
+1082
+00:42:54,420 --> 00:42:59,940
+GitHub uh for you to submit a change
+
+1083
+00:42:57,599 --> 00:43:01,859
+request and that will go to the ontology
+
+1084
+00:42:59,940 --> 00:43:04,920
+committee the Anthology Community will
+
+1085
+00:43:01,859 --> 00:43:07,980
+generally very quickly respond and make
+
+1086
+00:43:04,920 --> 00:43:11,579
+sure that the concepts that you need are
+
+1087
+00:43:07,980 --> 00:43:14,640
+then uh put into the oncology in a way
+
+1088
+00:43:11,579 --> 00:43:16,500
+um that is is that is or has been
+
+1089
+00:43:14,640 --> 00:43:18,920
+reviewed probably by all of the
+
+1090
+00:43:16,500 --> 00:43:18,920
+stakeholders
+
+1091
+00:43:19,319 --> 00:43:23,040
+so
+
+1092
+00:43:21,480 --> 00:43:27,240
+um one of the things that's important
+
+1093
+00:43:23,040 --> 00:43:29,339
+here is to be able to start with a new
+
+1094
+00:43:27,240 --> 00:43:31,640
+effort to say like the adversary
+
+1095
+00:43:29,339 --> 00:43:33,839
+engagement on apology
+
+1096
+00:43:31,640 --> 00:43:35,880
+you know when we think about granuary
+
+1097
+00:43:33,839 --> 00:43:39,300
+apology we need to put it through a
+
+1098
+00:43:35,880 --> 00:43:40,619
+maturity process
+
+1099
+00:43:39,300 --> 00:43:42,000
+and and
+
+1100
+00:43:40,619 --> 00:43:44,099
+um so we've been thinking a lot about
+
+1101
+00:43:42,000 --> 00:43:44,940
+this and
+
+1102
+00:43:44,099 --> 00:43:48,839
+um
+
+1103
+00:43:44,940 --> 00:43:50,880
+so so the maturity model that we have uh
+
+1104
+00:43:48,839 --> 00:43:53,240
+this that's uh
+
+1105
+00:43:50,880 --> 00:43:57,300
+uh
+
+1106
+00:43:53,240 --> 00:44:00,020
+near uh but we're getting ready to to
+
+1107
+00:43:57,300 --> 00:44:00,020
+present this
+
+1108
+00:44:09,020 --> 00:44:17,579
+foreigntology effort in a certain area
+
+1109
+00:44:12,780 --> 00:44:19,740
+uh within cyber and I want to include my
+
+1110
+00:44:17,579 --> 00:44:22,440
+little application oncology within the
+
+1111
+00:44:19,740 --> 00:44:24,900
+family of oncologists okay you know I'm
+
+1112
+00:44:22,440 --> 00:44:28,380
+going to come now you're going to make
+
+1113
+00:44:24,900 --> 00:44:29,700
+us aware of your project and you know
+
+1114
+00:44:28,380 --> 00:44:31,500
+eventually you know you become a
+
+1115
+00:44:29,700 --> 00:44:33,480
+candidate project and then eventually
+
+1116
+00:44:31,500 --> 00:44:35,339
+you'll move through this with maturity
+
+1117
+00:44:33,480 --> 00:44:37,920
+model being an approved project a
+
+1118
+00:44:35,339 --> 00:44:39,420
+validated project a formally managed
+
+1119
+00:44:37,920 --> 00:44:40,800
+project and then a formal government
+
+1120
+00:44:39,420 --> 00:44:44,339
+project
+
+1121
+00:44:40,800 --> 00:44:46,980
+and so this allows uh like research
+
+1122
+00:44:44,339 --> 00:44:50,280
+teams or online college games certain
+
+1123
+00:44:46,980 --> 00:44:52,319
+companies uh to propose and then they
+
+1124
+00:44:50,280 --> 00:44:55,319
+can move as fast as they want through
+
+1125
+00:44:52,319 --> 00:44:58,980
+the process uh but but this is this is
+
+1126
+00:44:55,319 --> 00:45:01,680
+uh this is a way to for for us to be
+
+1127
+00:44:58,980 --> 00:45:04,020
+able to engage with the world and then
+
+1128
+00:45:01,680 --> 00:45:06,420
+on board these applications oncology
+
+1129
+00:45:04,020 --> 00:45:10,200
+efforts
+
+1130
+00:45:06,420 --> 00:45:13,680
+right so there's a couple of other
+
+1131
+00:45:10,200 --> 00:45:16,440
+things that are unfortunate here
+
+1132
+00:45:13,680 --> 00:45:19,500
+um in terms of of some ongoing
+
+1133
+00:45:16,440 --> 00:45:23,839
+contributions so we have several large
+
+1134
+00:45:19,500 --> 00:45:23,839
+digital multimedia forensic extenders
+
+1135
+00:45:24,980 --> 00:45:30,720
+uh we have uh
+
+1136
+00:45:28,460 --> 00:45:33,660
+very very soon
+
+1137
+00:45:30,720 --> 00:45:36,780
+um we have a UCO graph Exchange Server
+
+1138
+00:45:33,660 --> 00:45:38,339
+and so this will uh this will be a tool
+
+1139
+00:45:36,780 --> 00:45:41,280
+that you can download from GitHub and
+
+1140
+00:45:38,339 --> 00:45:43,520
+you can upload uh your answer engage
+
+1141
+00:45:41,280 --> 00:45:47,520
+with oncology uh
+
+1142
+00:45:43,520 --> 00:45:49,859
+represented in in Json LP and This
+
+1143
+00:45:47,520 --> 00:45:52,260
+Server will basically let you upload it
+
+1144
+00:45:49,859 --> 00:45:54,000
+and set through and query it and
+
+1145
+00:45:52,260 --> 00:45:55,859
+validate it
+
+1146
+00:45:54,000 --> 00:45:58,140
+um there's some other uh some other
+
+1147
+00:45:55,859 --> 00:46:00,180
+significant efforts that are going on uh
+
+1148
+00:45:58,140 --> 00:46:02,640
+the Netherlands forensics Institute they
+
+1149
+00:46:00,180 --> 00:46:04,920
+have a digital forensics as a service
+
+1150
+00:46:02,640 --> 00:46:07,800
+platform
+
+1151
+00:46:04,920 --> 00:46:11,880
+um and so they have been working through
+
+1152
+00:46:07,800 --> 00:46:13,980
+case UCL adoption and we've got some
+
+1153
+00:46:11,880 --> 00:46:17,460
+open source pools autopsy and network
+
+1154
+00:46:13,980 --> 00:46:20,040
+minor that we've been working with uh
+
+1155
+00:46:17,460 --> 00:46:22,020
+and so they have some initial adoptions
+
+1156
+00:46:20,040 --> 00:46:24,540
+and so those are tools that you may
+
+1157
+00:46:22,020 --> 00:46:26,400
+encounter reviews in an academic setting
+
+1158
+00:46:24,540 --> 00:46:27,780
+you know the forensics lab
+
+1159
+00:46:26,400 --> 00:46:29,640
+and then there's some various student
+
+1160
+00:46:27,780 --> 00:46:31,920
+government agencies that are that are
+
+1161
+00:46:29,640 --> 00:46:33,920
+also looking at the options like
+
+1162
+00:46:31,920 --> 00:46:33,920
+um
+
+1163
+00:46:36,359 --> 00:46:40,920
+so finally this is my last slide we have
+
+1164
+00:46:39,060 --> 00:46:44,099
+some product resources if you want to
+
+1165
+00:46:40,920 --> 00:46:46,859
+come visit the project on internet uh
+
+1166
+00:46:44,099 --> 00:46:49,380
+we're at the Cyber domain oncology.org
+
+1167
+00:46:46,859 --> 00:46:52,920
+and that will point you to the unified
+
+1168
+00:46:49,380 --> 00:46:55,500
+cyber oncology our middle ontology and
+
+1169
+00:46:52,920 --> 00:46:57,480
+then it will also point you to the app
+
+1170
+00:46:55,500 --> 00:47:00,300
+the published application oncology so
+
+1171
+00:46:57,480 --> 00:47:01,980
+the case oncology and the adversary
+
+1172
+00:47:00,300 --> 00:47:03,599
+engagement technology
+
+1173
+00:47:01,980 --> 00:47:05,040
+so with that
+
+1174
+00:47:03,599 --> 00:47:07,440
+um I think we're gonna hold questions to
+
+1175
+00:47:05,040 --> 00:47:10,920
+the very end but again thank you so much
+
+1176
+00:47:07,440 --> 00:47:13,079
+for having me here today to talk and uh
+
+1177
+00:47:10,920 --> 00:47:15,420
+the turn it over and out to the heat so
+
+1178
+00:47:13,079 --> 00:47:17,839
+that he and his team can talk about the
+
+1179
+00:47:15,420 --> 00:47:17,839
+adversary
+
+1180
+00:47:22,440 --> 00:47:27,960
+that was a very enlightening
+
+1181
+00:47:24,060 --> 00:47:31,319
+presentation uh both in terms of the
+
+1182
+00:47:27,960 --> 00:47:36,119
+vision of the bullet for the roadmap now
+
+1183
+00:47:31,319 --> 00:47:37,260
+before we move on to the uh to the
+
+1184
+00:47:36,119 --> 00:47:40,020
+address engagement ontology
+
+1185
+00:47:37,260 --> 00:47:40,859
+representation overview
+
+1186
+00:47:40,020 --> 00:47:44,339
+um
+
+1187
+00:47:40,859 --> 00:47:48,660
+Alex Nelson from Nest has ultimately
+
+1188
+00:47:44,339 --> 00:47:52,800
+agreed to present a brief uh statements
+
+1189
+00:47:48,660 --> 00:47:54,900
+introduction overview of his and college
+
+1190
+00:47:52,800 --> 00:48:00,540
+involvement in the project
+
+1191
+00:47:54,900 --> 00:48:03,300
+Alex was wondering if you were able to
+
+1192
+00:48:00,540 --> 00:48:05,280
+uh
+
+1193
+00:48:03,300 --> 00:48:07,560
+share me are you still on the call I see
+
+1194
+00:48:05,280 --> 00:48:10,079
+you now yes yep
+
+1195
+00:48:07,560 --> 00:48:11,819
+and the floor is yours
+
+1196
+00:48:10,079 --> 00:48:13,500
+uh thank you actually the brief
+
+1197
+00:48:11,819 --> 00:48:16,200
+inheritance statement um hello everyone
+
+1198
+00:48:13,500 --> 00:48:18,599
+my name is Alex Nelson I was the
+
+1199
+00:48:16,200 --> 00:48:20,520
+inaugural case ontology committee chair
+
+1200
+00:48:18,599 --> 00:48:23,339
+I'm currently the UC ontology committee
+
+1201
+00:48:20,520 --> 00:48:25,740
+chair and I am also the CDO technical
+
+1202
+00:48:23,339 --> 00:48:28,260
+steering committee Vice chair I
+
+1203
+00:48:25,740 --> 00:48:30,599
+continued to lead development of much of
+
+1204
+00:48:28,260 --> 00:48:31,800
+cdo's resources I'm representative of
+
+1205
+00:48:30,599 --> 00:48:33,960
+the government class of community
+
+1206
+00:48:31,800 --> 00:48:35,819
+members my employers the U.S National
+
+1207
+00:48:33,960 --> 00:48:37,260
+Institute of Science and Technology also
+
+1208
+00:48:35,819 --> 00:48:39,599
+known as nist
+
+1209
+00:48:37,260 --> 00:48:41,220
+uh this mission is to promote U.S
+
+1210
+00:48:39,599 --> 00:48:43,500
+Innovation and Industrial
+
+1211
+00:48:41,220 --> 00:48:46,440
+competitiveness by advancing measurement
+
+1212
+00:48:43,500 --> 00:48:48,300
+science standards and technology in ways
+
+1213
+00:48:46,440 --> 00:48:50,880
+that enhance Economic Security and
+
+1214
+00:48:48,300 --> 00:48:52,440
+improve our quality of life I support
+
+1215
+00:48:50,880 --> 00:48:55,260
+that mission by participating in the
+
+1216
+00:48:52,440 --> 00:48:57,900
+development consensus of Metrology and
+
+1217
+00:48:55,260 --> 00:48:59,280
+the Sciences my efforts at CDO are part
+
+1218
+00:48:57,900 --> 00:49:01,020
+of developing the science and Metrology
+
+1219
+00:48:59,280 --> 00:49:02,760
+of cyberspace thank you for the
+
+1220
+00:49:01,020 --> 00:49:05,400
+invitation
+
+1221
+00:49:02,760 --> 00:49:07,440
+thank you very much
+
+1222
+00:49:05,400 --> 00:49:09,119
+and
+
+1223
+00:49:07,440 --> 00:49:15,060
+um
+
+1224
+00:49:09,119 --> 00:49:17,640
+I think this is now a good time to ask
+
+1225
+00:49:15,060 --> 00:49:20,660
+the sale team
+
+1226
+00:49:17,640 --> 00:49:20,660
+Nancy Rose
+
+1227
+00:49:23,700 --> 00:49:29,180
+um
+
+1228
+00:49:24,900 --> 00:49:29,180
+the presentation file is
+
+1229
+00:49:29,280 --> 00:49:32,060
+over here
+
+1230
+00:49:33,560 --> 00:49:36,680
+thank you
+
+1231
+00:49:39,420 --> 00:49:42,200
+foreign
+
+1232
+00:50:21,260 --> 00:50:26,660
+College of Engineering
+
+1233
+00:50:24,200 --> 00:50:29,280
+uh we
+
+1234
+00:50:26,660 --> 00:50:31,680
+uh work on research projects at the
+
+1235
+00:50:29,280 --> 00:50:35,060
+intersection of cyber security
+
+1236
+00:50:31,680 --> 00:50:38,720
+artificial intelligence complex systems
+
+1237
+00:50:35,060 --> 00:50:43,200
+and cognitive
+
+1238
+00:50:38,720 --> 00:50:46,200
+uh science and Neuroscience
+
+1239
+00:50:43,200 --> 00:50:48,240
+the team that has been working on
+
+1240
+00:50:46,200 --> 00:50:52,380
+developing at the same data applications
+
+1241
+00:50:48,240 --> 00:50:58,140
+is because two of my doctoral students
+
+1242
+00:50:52,380 --> 00:51:00,480
+uh Nancy of Piazza and David and we also
+
+1243
+00:50:58,140 --> 00:51:01,640
+have Ronnie scorpon undergraduate
+
+1244
+00:51:00,480 --> 00:51:06,380
+research assistant
+
+1245
+00:51:01,640 --> 00:51:10,880
+who has been contributing to this effort
+
+1246
+00:51:06,380 --> 00:51:10,880
+uh since its Inception
+
+1247
+00:51:13,040 --> 00:51:16,859
+professor of computer science and data
+
+1248
+00:51:15,540 --> 00:51:19,079
+science and I'm also the principal
+
+1249
+00:51:16,859 --> 00:51:21,000
+investigator of Salem at the University
+
+1250
+00:51:19,079 --> 00:51:23,520
+of New Haven
+
+1251
+00:51:21,000 --> 00:51:26,760
+and I would like to
+
+1252
+00:51:23,520 --> 00:51:30,180
+return the microphone to my wonderful
+
+1253
+00:51:26,760 --> 00:51:34,460
+team to present more of a new uh their
+
+1254
+00:51:30,180 --> 00:51:34,460
+project please welcome the team
+
+1255
+00:51:36,780 --> 00:51:42,319
+thank you to provide hello everyone
+
+1256
+00:51:40,319 --> 00:51:42,319
+um
+
+1257
+00:51:46,880 --> 00:51:51,660
+so let's get started so today what I'm
+
+1258
+00:51:50,040 --> 00:51:54,660
+doing to you about anniversary
+
+1259
+00:51:51,660 --> 00:51:57,440
+investment applications
+
+1260
+00:51:54,660 --> 00:51:57,440
+so
+
+1261
+00:51:58,200 --> 00:52:03,800
+so this is
+
+1262
+00:52:00,599 --> 00:52:03,800
+adoptability fan organic
+
+1263
+00:52:06,180 --> 00:52:10,140
+indicator for the motivation and
+
+1264
+00:52:07,800 --> 00:52:12,420
+objectives behind them and refrigerator
+
+1265
+00:52:10,140 --> 00:52:15,000
+that all the Rosie and the next is going
+
+1266
+00:52:12,420 --> 00:52:17,220
+to cover the aeel's design and an
+
+1267
+00:52:15,000 --> 00:52:19,339
+example of how we can make best use of
+
+1268
+00:52:17,220 --> 00:52:19,339
+it
+
+1269
+00:52:19,500 --> 00:52:23,400
+okay so what is anniversary reasoning
+
+1270
+00:52:21,780 --> 00:52:26,059
+for we are just part of the condition
+
+1271
+00:52:23,400 --> 00:52:28,339
+from the American language
+
+1272
+00:52:26,059 --> 00:52:31,619
+uh explanation
+
+1273
+00:52:28,339 --> 00:52:33,839
+so we want to understand how we can
+
+1274
+00:52:31,619 --> 00:52:37,500
+interact and respond to the administry
+
+1275
+00:52:33,839 --> 00:52:39,240
+in the network so in the abolition way
+
+1276
+00:52:37,500 --> 00:52:41,640
+you can use addressing this might
+
+1277
+00:52:39,240 --> 00:52:44,339
+require an operation using denial and
+
+1278
+00:52:41,640 --> 00:52:47,280
+techniques we can monitor any valid
+
+1279
+00:52:44,339 --> 00:52:50,540
+sources of energy operations and the
+
+1280
+00:52:47,280 --> 00:52:50,540
+goal here is to
+
+1281
+00:52:51,319 --> 00:52:56,579
+how we can actually increase the amount
+
+1282
+00:52:54,540 --> 00:52:58,740
+of operation and decrease the value of
+
+1283
+00:52:56,579 --> 00:53:01,619
+their overall operations right and for
+
+1284
+00:52:58,740 --> 00:53:05,940
+that we can use the relevant Frameworks
+
+1285
+00:53:01,619 --> 00:53:05,940
+of that minor attack we succeeds
+
+1286
+00:53:07,920 --> 00:53:13,319
+now we have that Frameworks in place but
+
+1287
+00:53:11,160 --> 00:53:15,839
+how can we represent this concept in
+
+1288
+00:53:13,319 --> 00:53:19,220
+terms of rock right and this is where
+
+1289
+00:53:15,839 --> 00:53:19,220
+address three engagement
+
+1290
+00:53:19,319 --> 00:53:24,980
+now what is addressing this
+
+1291
+00:53:22,380 --> 00:53:24,980
+it is
+
+1292
+00:53:28,400 --> 00:53:34,319
+focuses on defining and its memorizing
+
+1293
+00:53:31,619 --> 00:53:36,660
+the information preposition of adversary
+
+1294
+00:53:34,319 --> 00:53:39,660
+investment and decide
+
+1295
+00:53:36,660 --> 00:53:39,660
+and
+
+1296
+00:53:40,380 --> 00:53:44,700
+these are the very forces we should
+
+1297
+00:53:42,780 --> 00:53:47,220
+write the overall process of that
+
+1298
+00:53:44,700 --> 00:53:50,040
+surround study we also want to improve
+
+1299
+00:53:47,220 --> 00:53:52,680
+the consistency applying a operations
+
+1300
+00:53:50,040 --> 00:53:55,680
+and we want to make sure that the
+
+1301
+00:53:52,680 --> 00:53:57,960
+evacuation process and communication uh
+
+1302
+00:53:55,680 --> 00:54:01,319
+with defects stakeholders and actors
+
+1303
+00:53:57,960 --> 00:54:04,520
+various Stones is very seamless enemies
+
+1304
+00:54:01,319 --> 00:54:04,520
+and because of that
+
+1305
+00:54:04,920 --> 00:54:07,920
+foreign
+
+1306
+00:54:19,200 --> 00:54:23,400
+right and because of that it contributes
+
+1307
+00:54:21,900 --> 00:54:26,160
+to the ease and consistency of
+
+1308
+00:54:23,400 --> 00:54:27,900
+integrated data force uh between across
+
+1309
+00:54:26,160 --> 00:54:30,000
+the very sermon a cyber operation and it
+
+1310
+00:54:27,900 --> 00:54:32,880
+also helps in the seamless uh a
+
+1311
+00:54:30,000 --> 00:54:35,220
+operation configurations
+
+1312
+00:54:32,880 --> 00:54:37,140
+so ideally we should be able to repair
+
+1313
+00:54:35,220 --> 00:54:39,359
+that all the concepts are used for
+
+1314
+00:54:37,140 --> 00:54:42,180
+accuracy in this thing but we are
+
+1315
+00:54:39,359 --> 00:54:44,940
+limited uh and we right now what we have
+
+1316
+00:54:42,180 --> 00:54:46,859
+done is we have uh we were able to
+
+1317
+00:54:44,940 --> 00:54:49,099
+represent the concept from the existing
+
+1318
+00:54:46,859 --> 00:54:49,099
+address
+
+1319
+00:54:49,339 --> 00:54:55,040
+and also the necessary Concepts from
+
+1320
+00:54:51,720 --> 00:54:55,040
+like that framework uh
+
+1321
+00:54:57,720 --> 00:55:03,000
+so the correct list that we have is uh
+
+1322
+00:55:00,540 --> 00:55:06,599
+we just released our current data
+
+1323
+00:55:03,000 --> 00:55:09,059
+version of a Euro percent 0.1.8 and it's
+
+1324
+00:55:06,599 --> 00:55:11,160
+already in the kicked up and we'll be
+
+1325
+00:55:09,059 --> 00:55:15,119
+looking forward to make more changes and
+
+1326
+00:55:11,160 --> 00:55:18,480
+release the uh more stable and uh with
+
+1327
+00:55:15,119 --> 00:55:20,599
+the property Works in a few months
+
+1328
+00:55:18,480 --> 00:55:20,599
+um
+
+1329
+00:55:21,559 --> 00:55:27,559
+to describe the models in uh design and
+
+1330
+00:55:25,500 --> 00:55:31,500
+process thank you
+
+1331
+00:55:27,559 --> 00:55:33,780
+hi everyone I'm Nancy I'm a PhD PhD
+
+1332
+00:55:31,500 --> 00:55:36,440
+student at this lab I work as primarily
+
+1333
+00:55:33,780 --> 00:55:39,359
+on mobile agents
+
+1334
+00:55:36,440 --> 00:55:41,579
+systems um so me right here we have an
+
+1335
+00:55:39,359 --> 00:55:43,319
+anthology overview this diagram here is
+
+1336
+00:55:41,579 --> 00:55:45,359
+really going to help us see an idea of
+
+1337
+00:55:43,319 --> 00:55:46,800
+the purpose of certain classes or
+
+1338
+00:55:45,359 --> 00:55:48,240
+concepts
+
+1339
+00:55:46,800 --> 00:55:52,099
+um and where they flow and why we
+
+1340
+00:55:48,240 --> 00:55:52,099
+introduce them but we'll break it down
+
+1341
+00:55:52,680 --> 00:55:57,720
+so ideally right as an anthology we have
+
+1342
+00:55:55,980 --> 00:55:59,700
+the actual structure of an ecology where
+
+1343
+00:55:57,720 --> 00:56:02,099
+we have the namespace the name space is
+
+1344
+00:55:59,700 --> 00:56:04,140
+commonly proposed of basically by the
+
+1345
+00:56:02,099 --> 00:56:06,839
+namespaces we have the attack which
+
+1346
+00:56:04,140 --> 00:56:09,500
+referrals to Concepts from Attack
+
+1347
+00:56:06,839 --> 00:56:09,500
+Frameworks
+
+1348
+00:56:21,660 --> 00:56:23,900
+foreign
+
+1349
+00:56:58,079 --> 00:57:02,819
+we have the pre-pro learning ideas and
+
+1350
+00:57:00,480 --> 00:57:05,160
+Concepts things that we really establish
+
+1351
+00:57:02,819 --> 00:57:06,839
+or if you create a plan uh three
+
+1352
+00:57:05,160 --> 00:57:09,119
+ingredient plants and events and plan
+
+1353
+00:57:06,839 --> 00:57:10,740
+events together and then of course we
+
+1354
+00:57:09,119 --> 00:57:12,720
+have the things that populate them which
+
+1355
+00:57:10,740 --> 00:57:15,359
+are the perception of objects of cells
+
+1356
+00:57:12,720 --> 00:57:16,280
+and maybe some operational things the
+
+1357
+00:57:15,359 --> 00:57:19,619
+things
+
+1358
+00:57:16,280 --> 00:57:22,079
+are more or less like the ideas
+
+1359
+00:57:19,619 --> 00:57:23,880
+exclusively absolutely even you probably
+
+1360
+00:57:22,079 --> 00:57:25,980
+wouldn't find them anywhere else most
+
+1361
+00:57:23,880 --> 00:57:28,380
+likely right but the other ones are not
+
+1362
+00:57:25,980 --> 00:57:29,579
+cool maybe Concepts that might overlap
+
+1363
+00:57:28,380 --> 00:57:32,220
+with other
+
+1364
+00:57:29,579 --> 00:57:35,040
+um uh domains right so then we need to
+
+1365
+00:57:32,220 --> 00:57:36,960
+really think about when to depreciate
+
+1366
+00:57:35,040 --> 00:57:38,099
+those Concepts later on or when it kind
+
+1367
+00:57:36,960 --> 00:57:41,940
+of
+
+1368
+00:57:38,099 --> 00:57:43,680
+so please rewinding concepts are are
+
+1369
+00:57:41,940 --> 00:57:46,079
+designed to support the starting minor
+
+1370
+00:57:43,680 --> 00:57:48,839
+engaged headset process for 80 like a
+
+1371
+00:57:46,079 --> 00:57:51,240
+graph right so I either need to use this
+
+1372
+00:57:48,839 --> 00:57:53,359
+repair we reference the entire process
+
+1373
+00:57:51,240 --> 00:57:57,380
+of planning like the entire processary
+
+1374
+00:57:53,359 --> 00:57:57,380
+operational ordinary effects
+
+1375
+00:57:58,079 --> 00:58:03,140
+so expanding the second most important
+
+1376
+00:58:01,380 --> 00:58:05,880
+uh
+
+1377
+00:58:03,140 --> 00:58:08,280
+Japanese space there's really only one
+
+1378
+00:58:05,880 --> 00:58:10,020
+actual class in the same space it's all
+
+1379
+00:58:08,280 --> 00:58:12,720
+objective all the rest of them are
+
+1380
+00:58:10,020 --> 00:58:15,119
+instances of objectives and specifically
+
+1381
+00:58:12,720 --> 00:58:18,240
+why we just outline very specifically
+
+1382
+00:58:15,119 --> 00:58:21,960
+lighter attacks and minor engages
+
+1383
+00:58:18,240 --> 00:58:24,420
+um uh tactics and higher level goals
+
+1384
+00:58:21,960 --> 00:58:26,220
+um which we use actually
+
+1385
+00:58:24,420 --> 00:58:28,140
+and then of course we cover a little bit
+
+1386
+00:58:26,220 --> 00:58:30,059
+of other things which can be considered
+
+1387
+00:58:28,140 --> 00:58:31,680
+like things that are not necessarily get
+
+1388
+00:58:30,059 --> 00:58:34,020
+covered by minor or they could be
+
+1389
+00:58:31,680 --> 00:58:36,260
+exactly that uh we link two of them
+
+1390
+00:58:34,020 --> 00:58:36,260
+together
+
+1391
+00:58:40,980 --> 00:58:46,740
+then we have obviously making sure we
+
+1392
+00:58:43,680 --> 00:58:49,799
+have identity in general so identity uh
+
+1393
+00:58:46,740 --> 00:58:52,559
+under the UCO identity right they have
+
+1394
+00:58:49,799 --> 00:58:54,599
+uh they basically inherit their their
+
+1395
+00:58:52,559 --> 00:58:56,520
+class for that and we considered
+
+1396
+00:58:54,599 --> 00:58:58,920
+something called the Persona and a team
+
+1397
+00:58:56,520 --> 00:59:00,720
+so Persona we usually just decided as a
+
+1398
+00:58:58,920 --> 00:59:03,380
+separation of concepts of identities or
+
+1399
+00:59:00,720 --> 00:59:06,359
+real identities
+
+1400
+00:59:03,380 --> 00:59:07,200
+of people actually are who they're
+
+1401
+00:59:06,359 --> 00:59:08,819
+asking
+
+1402
+00:59:07,200 --> 00:59:10,200
+right
+
+1403
+00:59:08,819 --> 00:59:12,780
+um and then we have a concept of a team
+
+1404
+00:59:10,200 --> 00:59:15,180
+so ideally in uco's identity they have
+
+1405
+00:59:12,780 --> 00:59:17,640
+an organization but we really want to
+
+1406
+00:59:15,180 --> 00:59:19,619
+specify the meal a subset of people who
+
+1407
+00:59:17,640 --> 00:59:22,640
+actually interact directly and
+
+1408
+00:59:19,619 --> 00:59:22,640
+coordinate foreign
+
+1409
+00:59:33,540 --> 00:59:37,400
+the purple team those are all just
+
+1410
+00:59:37,619 --> 00:59:44,000
+okay so moving on uh we talked about
+
+1411
+00:59:40,740 --> 00:59:44,000
+exclusive lineatology
+
+1412
+00:59:45,059 --> 00:59:50,339
+of a positive quality and now we need to
+
+1413
+00:59:48,660 --> 00:59:54,180
+talk about the usages and the intentions
+
+1414
+00:59:50,339 --> 00:59:56,160
+of wider and such designs and mostly and
+
+1415
+00:59:54,180 --> 00:59:59,339
+the best way they can really give you an
+
+1416
+00:59:56,160 --> 01:00:02,099
+idea why is divided into phases of when
+
+1417
+00:59:59,339 --> 01:00:03,359
+you when you process information this is
+
+1418
+01:00:02,099 --> 01:00:05,040
+the pre-operation phase like the
+
+1419
+01:00:03,359 --> 01:00:07,380
+pre-planning phase interoperation days
+
+1420
+01:00:05,040 --> 01:00:09,240
+when during an operation during time
+
+1421
+01:00:07,380 --> 01:00:10,980
+what was actually happening and why are
+
+1422
+01:00:09,240 --> 01:00:13,859
+you modeling and impulse operation which
+
+1423
+01:00:10,980 --> 01:00:16,079
+is more or less the analysis
+
+1424
+01:00:13,859 --> 01:00:18,180
+so
+
+1425
+01:00:16,079 --> 01:00:19,740
+the pre-operation and implying of an
+
+1426
+01:00:18,180 --> 01:00:22,319
+operation is important to be able to
+
+1427
+01:00:19,740 --> 01:00:24,720
+start to represent right this is kind of
+
+1428
+01:00:22,319 --> 01:00:27,420
+like uh your first blueprint you know
+
+1429
+01:00:24,720 --> 01:00:29,220
+and so it's one of the tools that we
+
+1430
+01:00:27,420 --> 01:00:31,200
+have here from the planning segment on
+
+1431
+01:00:29,220 --> 01:00:33,839
+the need engage right we need to express
+
+1432
+01:00:31,200 --> 01:00:35,280
+a sequence of events plan events
+
+1433
+01:00:33,839 --> 01:00:37,319
+together
+
+1434
+01:00:35,280 --> 01:00:39,900
+um that relate to some sort of ordering
+
+1435
+01:00:37,319 --> 01:00:42,119
+of expectation of how a particular uh
+
+1436
+01:00:39,900 --> 01:00:44,099
+operation is going to go right so we
+
+1437
+01:00:42,119 --> 01:00:46,920
+need to see we need to be realistic um
+
+1438
+01:00:44,099 --> 01:00:49,500
+and have actual concrete discussions of
+
+1439
+01:00:46,920 --> 01:00:51,540
+how of our expectations and we need to
+
+1440
+01:00:49,500 --> 01:00:52,980
+expect to development of resources prior
+
+1441
+01:00:51,540 --> 01:00:55,140
+to an operation
+
+1442
+01:00:52,980 --> 01:00:57,480
+so the narrative concepts are there
+
+1443
+01:00:55,140 --> 01:00:59,400
+really support this for this um
+
+1444
+01:00:57,480 --> 01:01:02,460
+intra operation
+
+1445
+01:00:59,400 --> 01:01:05,280
+um it occurs during an operation so
+
+1446
+01:01:02,460 --> 01:01:07,500
+before it comes after the pre-planning
+
+1447
+01:01:05,280 --> 01:01:09,599
+and during when an operation X is
+
+1448
+01:01:07,500 --> 01:01:10,500
+actually run into its termination so
+
+1449
+01:01:09,599 --> 01:01:12,240
+that's what we really call
+
+1450
+01:01:10,500 --> 01:01:14,280
+interoperation
+
+1451
+01:01:12,240 --> 01:01:15,960
+there are some things during planning
+
+1452
+01:01:14,280 --> 01:01:18,240
+right um when you plan things like if
+
+1453
+01:01:15,960 --> 01:01:20,160
+you have an actor in a particular
+
+1454
+01:01:18,240 --> 01:01:22,200
+environment right by Defender has active
+
+1455
+01:01:20,160 --> 01:01:25,020
+persona it's not something you can
+
+1456
+01:01:22,200 --> 01:01:27,059
+deploy before the operation right it's
+
+1457
+01:01:25,020 --> 01:01:31,140
+actually somebody who actually interacts
+
+1458
+01:01:27,059 --> 01:01:31,140
+during an operation information
+
+1459
+01:01:49,280 --> 01:01:54,900
+will probably come from data sources for
+
+1460
+01:01:53,040 --> 01:01:57,839
+monitoring logging right so when you
+
+1461
+01:01:54,900 --> 01:01:59,220
+monitor a particular network activity
+
+1462
+01:01:57,839 --> 01:02:00,119
+right you might be able to have other
+
+1463
+01:01:59,220 --> 01:02:02,520
+information
+
+1464
+01:02:00,119 --> 01:02:04,500
+so it's usually there to help you get an
+
+1465
+01:02:02,520 --> 01:02:06,299
+idea of what exhibitions can you expect
+
+1466
+01:02:04,500 --> 01:02:08,579
+for certain phases of what the
+
+1467
+01:02:06,299 --> 01:02:11,119
+permissions look at the information down
+
+1468
+01:02:08,579 --> 01:02:11,119
+the properties
+
+1469
+01:02:12,299 --> 01:02:16,740
+right and then finally there's post
+
+1470
+01:02:14,280 --> 01:02:18,000
+operation right we really addressed
+
+1471
+01:02:16,740 --> 01:02:19,440
+pre-operation in
+
+1472
+01:02:18,000 --> 01:02:21,420
+the pre-planning major operation
+
+1473
+01:02:19,440 --> 01:02:23,280
+Concepts and we are exposed there so we
+
+1474
+01:02:21,420 --> 01:02:25,260
+have generation however post operations
+
+1475
+01:02:23,280 --> 01:02:26,460
+are also very complex
+
+1476
+01:02:25,260 --> 01:02:28,380
+right
+
+1477
+01:02:26,460 --> 01:02:29,579
+um post operation phase and unsettable
+
+1478
+01:02:28,380 --> 01:02:31,799
+usages
+
+1479
+01:02:29,579 --> 01:02:34,260
+namely like directly that we address we
+
+1480
+01:02:31,799 --> 01:02:37,140
+address minority we just understand
+
+1481
+01:02:34,260 --> 01:02:38,880
+um right and so that's kind of more or
+
+1482
+01:02:37,140 --> 01:02:40,680
+less a starting the process of the
+
+1483
+01:02:38,880 --> 01:02:42,720
+processing information
+
+1484
+01:02:40,680 --> 01:02:44,180
+um reducing information and then
+
+1485
+01:02:42,720 --> 01:02:46,859
+including up with a new plan for
+
+1486
+01:02:44,180 --> 01:02:48,599
+reiteration right but then it's also
+
+1487
+01:02:46,859 --> 01:02:50,099
+identifying when modifications or
+
+1488
+01:02:48,599 --> 01:02:52,339
+Corrections are made to build a timeline
+
+1489
+01:02:50,099 --> 01:02:52,339
+evidence
+
+1490
+01:03:02,400 --> 01:03:05,180
+closet
+
+1491
+01:03:05,400 --> 01:03:09,059
+um we are currently going to quote for
+
+1492
+01:03:07,020 --> 01:03:11,339
+supporting evaluation and measurement of
+
+1493
+01:03:09,059 --> 01:03:14,339
+interoperation measurements test so
+
+1494
+01:03:11,339 --> 01:03:15,660
+during an actual measured right is there
+
+1495
+01:03:14,339 --> 01:03:17,520
+a measure that you can take during
+
+1496
+01:03:15,660 --> 01:03:19,940
+measure to determine how well your
+
+1497
+01:03:17,520 --> 01:03:19,940
+operations
+
+1498
+01:03:22,400 --> 01:03:27,180
+so more or less right you have a plan
+
+1499
+01:03:25,140 --> 01:03:28,680
+and then you start uh
+
+1500
+01:03:27,180 --> 01:03:31,640
+you perform the operated and then you
+
+1501
+01:03:28,680 --> 01:03:31,640
+align your that's together
+
+1502
+01:03:32,400 --> 01:03:37,799
+okay and then finally the best part of
+
+1503
+01:03:35,400 --> 01:03:40,740
+this um to really enumerate how you can
+
+1504
+01:03:37,799 --> 01:03:42,440
+use apps on
+
+1505
+01:03:40,740 --> 01:03:45,839
+ology
+
+1506
+01:03:42,440 --> 01:03:47,339
+so of course um mentioned this home
+
+1507
+01:03:45,839 --> 01:03:49,740
+alone but we all mentioned it again
+
+1508
+01:03:47,339 --> 01:03:52,500
+because it really is a good example of
+
+1509
+01:03:49,740 --> 01:03:54,720
+how it is and the
+
+1510
+01:03:52,500 --> 01:03:56,460
+um you know a Labyrinth of many little
+
+1511
+01:03:54,720 --> 01:03:58,920
+booty chats
+
+1512
+01:03:56,460 --> 01:04:00,660
+um so obviously the idea is if you can
+
+1513
+01:03:58,920 --> 01:04:03,180
+see that battle plan that came and wrote
+
+1514
+01:04:00,660 --> 01:04:04,500
+up right and in some way right it's a
+
+1515
+01:04:03,180 --> 01:04:06,359
+blueprint it's basically kind of like
+
+1516
+01:04:04,500 --> 01:04:07,559
+the concept The Narrative except maybe a
+
+1517
+01:04:06,359 --> 01:04:09,480
+little bit more information he doesn't
+
+1518
+01:04:07,559 --> 01:04:12,059
+really tell you the secret events that
+
+1519
+01:04:09,480 --> 01:04:14,520
+he expects to happen but a lot of that's
+
+1520
+01:04:12,059 --> 01:04:16,920
+actually really important to encode in
+
+1521
+01:04:14,520 --> 01:04:18,240
+during the planning place right and then
+
+1522
+01:04:16,920 --> 01:04:22,079
+of course we have this little senior
+
+1523
+01:04:18,240 --> 01:04:23,460
+word yeah people dancing pretend to give
+
+1524
+01:04:22,079 --> 01:04:25,440
+it a perception and there are people
+
+1525
+01:04:23,460 --> 01:04:27,839
+living and being Lively in the house
+
+1526
+01:04:25,440 --> 01:04:29,579
+even though there was none so right a
+
+1527
+01:04:27,839 --> 01:04:32,280
+lot of Engagement depends on something
+
+1528
+01:04:29,579 --> 01:04:35,220
+perception which is really important to
+
+1529
+01:04:32,280 --> 01:04:37,559
+actually identify in an intelligence
+
+1530
+01:04:35,220 --> 01:04:39,480
+okay so here specifically we're going to
+
+1531
+01:04:37,559 --> 01:04:42,240
+call ourselves uh we have a company
+
+1532
+01:04:39,480 --> 01:04:44,579
+called mineral R Us right
+
+1533
+01:04:42,240 --> 01:04:47,700
+so we're a small yet critical rare herb
+
+1534
+01:04:44,579 --> 01:04:49,440
+Mining Company in New Hampshire
+
+1535
+01:04:47,700 --> 01:04:51,240
+our main clients are from the critical
+
+1536
+01:04:49,440 --> 01:04:53,160
+infrastructure technology in the events
+
+1537
+01:04:51,240 --> 01:04:55,440
+Industries
+
+1538
+01:04:53,160 --> 01:04:57,359
+our key intellectual properties and
+
+1539
+01:04:55,440 --> 01:04:58,880
+operational procedures are stored on
+
+1540
+01:04:57,359 --> 01:05:01,500
+paper
+
+1541
+01:04:58,880 --> 01:05:03,119
+fashion and this is only known by
+
+1542
+01:05:01,500 --> 01:05:05,280
+celebrity
+
+1543
+01:05:03,119 --> 01:05:07,140
+but we do have a small unorganized
+
+1544
+01:05:05,280 --> 01:05:09,240
+computer network but only generic
+
+1545
+01:05:07,140 --> 01:05:11,579
+security infrastructure we have every
+
+1546
+01:05:09,240 --> 01:05:15,079
+small team that operates uh that
+
+1547
+01:05:11,579 --> 01:05:15,079
+contains operational Technologies
+
+1548
+01:05:15,119 --> 01:05:19,559
+and we just received an advisory notice
+
+1549
+01:05:17,940 --> 01:05:21,660
+some of the federal authorities that
+
+1550
+01:05:19,559 --> 01:05:26,000
+there are rapidly growing cyber threats
+
+1551
+01:05:21,660 --> 01:05:29,520
+as acknowledged by state sponsored apts
+
+1552
+01:05:26,000 --> 01:05:31,260
+that are more frequently
+
+1553
+01:05:29,520 --> 01:05:33,720
+um so in response right your company
+
+1554
+01:05:31,260 --> 01:05:35,099
+decides to engage an external type of
+
+1555
+01:05:33,720 --> 01:05:37,440
+security provided to a certain way
+
+1556
+01:05:35,099 --> 01:05:39,960
+timely incident response and prevention
+
+1557
+01:05:37,440 --> 01:05:41,960
+the external provider recommends the
+
+1558
+01:05:39,960 --> 01:05:44,339
+employment
+
+1559
+01:05:41,960 --> 01:05:47,160
+and asks you to develop a high level
+
+1560
+01:05:44,339 --> 01:05:48,660
+deception and denominable strategy
+
+1561
+01:05:47,160 --> 01:05:50,940
+so
+
+1562
+01:05:48,660 --> 01:05:52,680
+mentioning that a little bit from at a
+
+1563
+01:05:50,940 --> 01:05:55,559
+certain engagement we pull from this
+
+1564
+01:05:52,680 --> 01:05:58,440
+very useful tool the back depiction uh
+
+1565
+01:05:55,559 --> 01:06:00,599
+the nylon deception Matrix right so we
+
+1566
+01:05:58,440 --> 01:06:04,020
+have path along the column side we have
+
+1567
+01:06:00,599 --> 01:06:08,059
+the perception techniques uh deception
+
+1568
+01:06:04,020 --> 01:06:08,059
+and denial type is on the
+
+1569
+01:06:11,040 --> 01:06:16,020
+so the idea here is is like here so over
+
+1570
+01:06:13,319 --> 01:06:18,660
+here a fact you know that we have what
+
+1571
+01:06:16,020 --> 01:06:20,520
+we want to reveal is the network is in
+
+1572
+01:06:18,660 --> 01:06:22,260
+New Hampshire the business runs a mine
+
+1573
+01:06:20,520 --> 01:06:24,299
+in New Hampshire so that's more or less
+
+1574
+01:06:22,260 --> 01:06:26,520
+something being covered and so that we
+
+1575
+01:06:24,299 --> 01:06:28,500
+want them to confirm so that they feel a
+
+1576
+01:06:26,520 --> 01:06:30,660
+little more uh secure in their
+
+1577
+01:06:28,500 --> 01:06:32,700
+assumptions then maybe for a position
+
+1578
+01:06:30,660 --> 01:06:35,160
+that we want to tell them or reveal to
+
+1579
+01:06:32,700 --> 01:06:37,140
+them right is that we have low value
+
+1580
+01:06:35,160 --> 01:06:40,380
+intellectual properties stored on the
+
+1581
+01:06:37,140 --> 01:06:40,380
+network right
+
+1582
+01:06:41,760 --> 01:06:46,079
+and then we have the slack which is for
+
+1583
+01:06:44,579 --> 01:06:48,299
+the concealing like the things that we
+
+1584
+01:06:46,079 --> 01:06:50,339
+want to we want to conceal form
+
+1585
+01:06:48,299 --> 01:06:51,240
+Anonymous series of things that we want
+
+1586
+01:06:50,339 --> 01:06:53,460
+to protect we have a business
+
+1587
+01:06:51,240 --> 01:06:55,740
+relationship with strategic Partners
+
+1588
+01:06:53,460 --> 01:07:00,000
+have a minerals money from the Strategic
+
+1589
+01:06:55,740 --> 01:07:01,920
+Partners uh process reminding uh that is
+
+1590
+01:07:00,000 --> 01:07:03,780
+essential to them right and the amounts
+
+1591
+01:07:01,920 --> 01:07:05,700
+of mineral minds all that information as
+
+1592
+01:07:03,780 --> 01:07:07,680
+well as like the company's location
+
+1593
+01:07:05,700 --> 01:07:09,359
+saying passcodes
+
+1594
+01:07:07,680 --> 01:07:10,740
+um or anything like that right so those
+
+1595
+01:07:09,359 --> 01:07:13,500
+are really good things we really want to
+
+1596
+01:07:10,740 --> 01:07:15,480
+connect and then for the fiction uh that
+
+1597
+01:07:13,500 --> 01:07:18,720
+we want to quote conceal we want percent
+
+1598
+01:07:15,480 --> 01:07:20,099
+uh we want the conceal is that most
+
+1599
+01:07:18,720 --> 01:07:23,839
+important intellectual property is
+
+1600
+01:07:20,099 --> 01:07:23,839
+located in this specific location
+
+1601
+01:07:27,119 --> 01:07:31,079
+so
+
+1602
+01:07:28,799 --> 01:07:32,700
+we have a Serial engagement all the
+
+1603
+01:07:31,079 --> 01:07:34,619
+improvised structure needed to transform
+
+1604
+01:07:32,700 --> 01:07:37,440
+your abstract deception concept plan
+
+1605
+01:07:34,619 --> 01:07:39,119
+into representation the degree of how
+
+1606
+01:07:37,440 --> 01:07:41,099
+being still your narrative will depend
+
+1607
+01:07:39,119 --> 01:07:43,859
+on how extensively refined you want to
+
+1608
+01:07:41,099 --> 01:07:46,200
+be opportunity planning to be right so
+
+1609
+01:07:43,859 --> 01:07:48,000
+you may come out with this 100 page the
+
+1610
+01:07:46,200 --> 01:07:49,859
+century plan all written and lots of
+
+1611
+01:07:48,000 --> 01:07:51,480
+paragraphs and words and a lot of detail
+
+1612
+01:07:49,859 --> 01:07:53,640
+right but now you need to conversions
+
+1613
+01:07:51,480 --> 01:07:55,680
+and sometimes you might realize hey I'm
+
+1614
+01:07:53,640 --> 01:07:57,740
+actually missing some information
+
+1615
+01:07:55,680 --> 01:07:57,740
+um
+
+1616
+01:08:27,440 --> 01:08:32,100
+so this is more or less dependent on how
+
+1617
+01:08:30,600 --> 01:08:36,120
+much resources you're willing to put out
+
+1618
+01:08:32,100 --> 01:08:39,380
+uh right and if it's not right then you
+
+1619
+01:08:36,120 --> 01:08:39,380
+repeat until you're satisfied
+
+1620
+01:08:39,480 --> 01:08:45,179
+so to start off right first thing we do
+
+1621
+01:08:42,839 --> 01:08:47,460
+is we create a narrative The Narrative
+
+1622
+01:08:45,179 --> 01:08:48,719
+is just kind of like your discussion
+
+1623
+01:08:47,460 --> 01:08:50,580
+campaign
+
+1624
+01:08:48,719 --> 01:08:52,500
+um so you are a lot so you're able to
+
+1625
+01:08:50,580 --> 01:08:54,299
+actually distinguish the differences
+
+1626
+01:08:52,500 --> 01:08:56,219
+between a plan and the rest of the unit
+
+1627
+01:08:54,299 --> 01:08:58,080
+right so then you create your plan
+
+1628
+01:08:56,219 --> 01:09:00,000
+events there's one specifically has two
+
+1629
+01:08:58,080 --> 01:09:01,620
+plan events and you can kind of see the
+
+1630
+01:09:00,000 --> 01:09:03,900
+relationship one comes first the next
+
+1631
+01:09:01,620 --> 01:09:06,179
+comes after right so the storyline Falls
+
+1632
+01:09:03,900 --> 01:09:09,600
+the structure of the museum acts threads
+
+1633
+01:09:06,179 --> 01:09:13,080
+to The Chronic parsley organ sets
+
+1634
+01:09:09,600 --> 01:09:15,179
+so if we expand the first line events at
+
+1635
+01:09:13,080 --> 01:09:16,799
+the center we have an action so this is
+
+1636
+01:09:15,179 --> 01:09:18,060
+basically like the evidence that you
+
+1637
+01:09:16,799 --> 01:09:20,339
+action right
+
+1638
+01:09:18,060 --> 01:09:21,660
+um what we call actions is it action and
+
+1639
+01:09:20,339 --> 01:09:23,759
+then this action has very specific
+
+1640
+01:09:21,660 --> 01:09:25,799
+properties that inherits a uco's action
+
+1641
+01:09:23,759 --> 01:09:27,480
+is such as like the performer the
+
+1642
+01:09:25,799 --> 01:09:29,040
+objects
+
+1643
+01:09:27,480 --> 01:09:30,900
+um maybe even like the environment and
+
+1644
+01:09:29,040 --> 01:09:32,460
+those kind of things so the performer of
+
+1645
+01:09:30,900 --> 01:09:34,859
+the deploy action is this particular
+
+1646
+01:09:32,460 --> 01:09:37,620
+person and then what do they deploy what
+
+1647
+01:09:34,859 --> 01:09:40,080
+object to manipulate they deployed
+
+1648
+01:09:37,620 --> 01:09:42,540
+and so there's a very specific
+
+1649
+01:09:40,080 --> 01:09:44,819
+um special property which is called has
+
+1650
+01:09:42,540 --> 01:09:47,699
+characterization which links up the
+
+1651
+01:09:44,819 --> 01:09:50,100
+concepts right the concept of AE so the
+
+1652
+01:09:47,699 --> 01:09:52,500
+physical world of what observables are
+
+1653
+01:09:50,100 --> 01:09:55,620
+supposed to represent so this Honeypot
+
+1654
+01:09:52,500 --> 01:09:58,020
+is going to be you know on an actual
+
+1655
+01:09:55,620 --> 01:10:00,179
+system a maybe a device and it's going
+
+1656
+01:09:58,020 --> 01:10:02,699
+to have this particular running server
+
+1657
+01:10:00,179 --> 01:10:04,560
+operating system or so forth right and
+
+1658
+01:10:02,699 --> 01:10:06,600
+so those alert objects like what does it
+
+1659
+01:10:04,560 --> 01:10:08,699
+actually look like it actually the
+
+1660
+01:10:06,600 --> 01:10:11,340
+characterization of it is actually a PDF
+
+1661
+01:10:08,699 --> 01:10:13,620
+or their oscillated thoughts
+
+1662
+01:10:11,340 --> 01:10:15,600
+so this relationship can be built out
+
+1663
+01:10:13,620 --> 01:10:17,460
+right so this plan that moral is just
+
+1664
+01:10:15,600 --> 01:10:18,920
+told you that a person that deployed a
+
+1665
+01:10:17,460 --> 01:10:21,300
+bunch of deception objects
+
+1666
+01:10:18,920 --> 01:10:23,580
+files the configuration of the data
+
+1667
+01:10:21,300 --> 01:10:24,960
+sources so the second thing that
+
+1668
+01:10:23,580 --> 01:10:27,179
+happened in this particular event is
+
+1669
+01:10:24,960 --> 01:10:30,000
+that uh this person deployed right
+
+1670
+01:10:27,179 --> 01:10:31,320
+another data source system for setting
+
+1671
+01:10:30,000 --> 01:10:33,960
+up like you know this security
+
+1672
+01:10:31,320 --> 01:10:36,179
+monitoring
+
+1673
+01:10:33,960 --> 01:10:37,440
+then comes the second event so we expand
+
+1674
+01:10:36,179 --> 01:10:38,820
+the second event they all kind of
+
+1675
+01:10:37,440 --> 01:10:41,640
+language so you can get the operations
+
+1676
+01:10:38,820 --> 01:10:43,800
+right it describes a scenario which
+
+1677
+01:10:41,640 --> 01:10:45,080
+follows the first planned event
+
+1678
+01:10:43,800 --> 01:10:48,659
+um
+
+1679
+01:10:45,080 --> 01:10:50,940
+and then we have the canary token is a
+
+1680
+01:10:48,659 --> 01:10:52,860
+server data source did they Source alert
+
+1681
+01:10:50,940 --> 01:10:55,400
+so it's got certain files of access on
+
+1682
+01:10:52,860 --> 01:10:55,400
+or off to them
+
+1683
+01:11:17,159 --> 01:11:20,940
+and then this is just literally just an
+
+1684
+01:11:19,140 --> 01:11:23,340
+overview of how it looks together
+
+1685
+01:11:20,940 --> 01:11:25,620
+it's kind of release
+
+1686
+01:11:23,340 --> 01:11:27,000
+technically but uh if you start putting
+
+1687
+01:11:25,620 --> 01:11:29,179
+all the arrows in right then it'd be
+
+1688
+01:11:27,000 --> 01:11:29,179
+starting
+
+1689
+01:11:29,640 --> 01:11:33,420
+so
+
+1690
+01:11:31,440 --> 01:11:36,780
+um one of the most important
+
+1691
+01:11:33,420 --> 01:11:38,760
+um usage of an intology is to query uh
+
+1692
+01:11:36,780 --> 01:11:39,840
+from the graph information but what kind
+
+1693
+01:11:38,760 --> 01:11:42,780
+of information can we get from
+
+1694
+01:11:39,840 --> 01:11:44,400
+standardization process for example
+
+1695
+01:11:42,780 --> 01:11:46,400
+let's just load into
+
+1696
+01:11:44,400 --> 01:11:46,400
+um
+
+1697
+01:11:51,480 --> 01:11:56,580
+so maybe I have a question I want to
+
+1698
+01:11:54,300 --> 01:11:58,440
+know about how many deception objects
+
+1699
+01:11:56,580 --> 01:12:01,920
+were instantiated with a particular
+
+1700
+01:11:58,440 --> 01:12:04,260
+objective which is Consulting well you
+
+1701
+01:12:01,920 --> 01:12:06,600
+can tell me too why because actually
+
+1702
+01:12:04,260 --> 01:12:10,280
+there's only two also be a scary
+
+1703
+01:12:06,600 --> 01:12:10,280
+thoughts right there being um
+
+1704
+01:12:16,920 --> 01:12:22,800
+so the Honeypot and maybe the files
+
+1705
+01:12:20,100 --> 01:12:24,480
+right then we have direct and we have a
+
+1706
+01:12:22,800 --> 01:12:27,480
+sculpture those are the two options
+
+1707
+01:12:24,480 --> 01:12:27,480
+right
+
+1708
+01:12:29,159 --> 01:12:34,500
+um May provide some Logistics that will
+
+1709
+01:12:31,739 --> 01:12:36,840
+not immutable impairment phrase right
+
+1710
+01:12:34,500 --> 01:12:38,640
+maybe you want to diversify or narrow
+
+1711
+01:12:36,840 --> 01:12:40,739
+the deception techniques depending on
+
+1712
+01:12:38,640 --> 01:12:43,500
+the type of adversary you expect right
+
+1713
+01:12:40,739 --> 01:12:45,780
+so maybe report adversaries in your wine
+
+1714
+01:12:43,500 --> 01:12:48,540
+or Niche right a very particular
+
+1715
+01:12:45,780 --> 01:12:49,380
+purposes for certain types of
+
+1716
+01:12:48,540 --> 01:12:52,440
+um
+
+1717
+01:12:49,380 --> 01:12:55,199
+um actions right or certain types of
+
+1718
+01:12:52,440 --> 01:12:57,300
+um right so therefore maybe you want to
+
+1719
+01:12:55,199 --> 01:12:59,340
+eat a dangerous plant where Sun Fighters
+
+1720
+01:12:57,300 --> 01:13:03,000
+your spread
+
+1721
+01:12:59,340 --> 01:13:04,920
+um your AE objective goals right
+
+1722
+01:13:03,000 --> 01:13:06,420
+um to really cover and be more a little
+
+1723
+01:13:04,920 --> 01:13:09,900
+bit more resilient towards those
+
+1724
+01:13:06,420 --> 01:13:11,760
+specific kinds of attacks
+
+1725
+01:13:09,900 --> 01:13:14,760
+and then future developments
+
+1726
+01:13:11,760 --> 01:13:18,179
+intelligence we have
+
+1727
+01:13:14,760 --> 01:13:21,600
+so challenges are as followed right as a
+
+1728
+01:13:18,179 --> 01:13:23,040
+as an application oncology right uh we
+
+1729
+01:13:21,600 --> 01:13:25,320
+need to stay compliant with them at all
+
+1730
+01:13:23,040 --> 01:13:27,600
+times at least under official versions
+
+1731
+01:13:25,320 --> 01:13:30,060
+and their full versions right so that's
+
+1732
+01:13:27,600 --> 01:13:31,739
+really important sometimes UCO has some
+
+1733
+01:13:30,060 --> 01:13:34,679
+big structural changes that also will
+
+1734
+01:13:31,739 --> 01:13:36,420
+change ourselves uh we work for
+
+1735
+01:13:34,679 --> 01:13:39,500
+facilitating students and options of
+
+1736
+01:13:36,420 --> 01:13:39,500
+current tools and techniques
+
+1737
+01:13:43,219 --> 01:13:48,239
+then we have to pick and choose which
+
+1738
+01:13:45,840 --> 01:13:50,100
+Concepts that overlay between domains
+
+1739
+01:13:48,239 --> 01:13:51,960
+and figure out who gets to own that
+
+1740
+01:13:50,100 --> 01:13:54,179
+concept and who really should become
+
+1741
+01:13:51,960 --> 01:13:56,820
+responsibility of it right and you may
+
+1742
+01:13:54,179 --> 01:13:59,280
+need to possibly conflict Resolute uh
+
+1743
+01:13:56,820 --> 01:14:02,100
+Concepts when they are so for example a
+
+1744
+01:13:59,280 --> 01:14:04,500
+lot of things we borrowed from CTI
+
+1745
+01:14:02,100 --> 01:14:07,140
+um you know leave this there and live
+
+1746
+01:14:04,500 --> 01:14:09,300
+there but we may want to use them
+
+1747
+01:14:07,140 --> 01:14:10,620
+and of course we want the game to be
+
+1748
+01:14:09,300 --> 01:14:13,100
+compatible with other relevant
+
+1749
+01:14:10,620 --> 01:14:13,100
+applications
+
+1750
+01:14:16,260 --> 01:14:21,840
+um this is where you can find uh our
+
+1751
+01:14:19,679 --> 01:14:24,179
+particular repository uh where you plan
+
+1752
+01:14:21,840 --> 01:14:26,280
+your ecology for what sign is equal we
+
+1753
+01:14:24,179 --> 01:14:28,860
+support uh if you want to contribute you
+
+1754
+01:14:26,280 --> 01:14:29,760
+can also contact those this year
+
+1755
+01:14:28,860 --> 01:14:33,420
+um
+
+1756
+01:14:29,760 --> 01:14:36,060
+and then we did a small little uh test
+
+1757
+01:14:33,420 --> 01:14:38,460
+thank you according for uh showing this
+
+1758
+01:14:36,060 --> 01:14:40,620
+um we asked dbt4 about what information
+
+1759
+01:14:38,460 --> 01:14:44,540
+could it gather by giving it just to
+
+1760
+01:14:40,620 --> 01:14:44,540
+Json LD format right
+
+1761
+01:14:49,159 --> 01:14:54,719
+is very very smart about
+
+1762
+01:14:53,520 --> 01:14:56,580
+um describing some of the things that
+
+1763
+01:14:54,719 --> 01:14:59,400
+are concentrated right so objective
+
+1764
+01:14:56,580 --> 01:15:01,679
+storyline events it's a really good idea
+
+1765
+01:14:59,400 --> 01:15:04,140
+of what we're trying to present in this
+
+1766
+01:15:01,679 --> 01:15:05,640
+Json something is wrong but
+
+1767
+01:15:04,140 --> 01:15:07,920
+um it's a really interesting thought
+
+1768
+01:15:05,640 --> 01:15:12,199
+that you know you could be promised even
+
+1769
+01:15:07,920 --> 01:15:12,199
+just by uh publishing or anyone
+
+1770
+01:15:12,840 --> 01:15:17,400
+and so these are the contributors are
+
+1771
+01:15:15,659 --> 01:15:19,320
+still up and then from the minor team
+
+1772
+01:15:17,400 --> 01:15:21,840
+that a lot of input of them which is
+
+1773
+01:15:19,320 --> 01:15:23,699
+extremely helpful we were Guided by a
+
+1774
+01:15:21,840 --> 01:15:26,219
+lot of people on the miter teams of the
+
+1775
+01:15:23,699 --> 01:15:30,060
+direction for you based on Direction
+
+1776
+01:15:26,219 --> 01:15:33,020
+so I also and I like any questions
+
+1777
+01:15:30,060 --> 01:15:33,020
+thank you very much
+
+1778
+01:15:35,480 --> 01:15:41,460
+wonderful presentation I'm going to open
+
+1779
+01:15:38,460 --> 01:15:44,040
+the floor to what uh questions from the
+
+1780
+01:15:41,460 --> 01:15:46,500
+audience but before doing this I just
+
+1781
+01:15:44,040 --> 01:15:49,380
+wanted to add something to the very last
+
+1782
+01:15:46,500 --> 01:15:53,040
+slide that you had before the relative
+
+1783
+01:15:49,380 --> 01:15:55,140
+page on the GBP board sample so last
+
+1784
+01:15:53,040 --> 01:15:59,400
+night I had a little bit of trouble uh
+
+1785
+01:15:55,140 --> 01:16:01,679
+sleeping I got to play around with gpt4
+
+1786
+01:15:59,400 --> 01:16:03,300
+and our ontology
+
+1787
+01:16:01,679 --> 01:16:04,980
+now that's
+
+1788
+01:16:03,300 --> 01:16:07,580
+well
+
+1789
+01:16:04,980 --> 01:16:13,440
+um gpt4 in the channel
+
+1790
+01:16:07,580 --> 01:16:17,100
+or Chad gbt 3.5 has seen this example of
+
+1791
+01:16:13,440 --> 01:16:18,960
+Json lb you can then ask it to convert
+
+1792
+01:16:17,100 --> 01:16:21,360
+the textual description
+
+1793
+01:16:18,960 --> 01:16:23,640
+into a Json and that's one of the things
+
+1794
+01:16:21,360 --> 01:16:28,560
+that we are going to explore as
+
+1795
+01:16:23,640 --> 01:16:32,040
+one application or at least uh one uh
+
+1796
+01:16:28,560 --> 01:16:35,159
+tool that is built on top of this work
+
+1797
+01:16:32,040 --> 01:16:38,760
+there's the scope of utilization
+
+1798
+01:16:35,159 --> 01:16:42,360
+adoption and expansion and extensions
+
+1799
+01:16:38,760 --> 01:16:44,340
+quite wide and large and promising
+
+1800
+01:16:42,360 --> 01:16:46,140
+particularly when it comes to automation
+
+1801
+01:16:44,340 --> 01:16:49,860
+with that I would like to thank you
+
+1802
+01:16:46,140 --> 01:16:52,679
+again and I would like to open the for
+
+1803
+01:16:49,860 --> 01:16:54,659
+the questions from the audience if you
+
+1804
+01:16:52,679 --> 01:16:56,760
+are online please feel free to raise
+
+1805
+01:16:54,659 --> 01:16:58,620
+your hand if you are in person
+
+1806
+01:16:56,760 --> 01:17:02,520
+uh
+
+1807
+01:16:58,620 --> 01:17:04,140
+praise your political actual and and the
+
+1808
+01:17:02,520 --> 01:17:07,199
+questions are not necessarily have to be
+
+1809
+01:17:04,140 --> 01:17:09,719
+limited to the final presentation
+
+1810
+01:17:07,199 --> 01:17:13,380
+uh I believe whereas and Alex are still
+
+1811
+01:17:09,719 --> 01:17:16,040
+with us employees with us in the bedroom
+
+1812
+01:17:13,380 --> 01:17:16,040
+so
+
+1813
+01:17:17,699 --> 01:17:22,860
+the
+
+1814
+01:17:20,040 --> 01:17:24,960
+while you're waiting for questions I can
+
+1815
+01:17:22,860 --> 01:17:27,179
+go first
+
+1816
+01:17:24,960 --> 01:17:29,179
+so
+
+1817
+01:17:27,179 --> 01:17:29,179
+um
+
+1818
+01:17:29,580 --> 01:17:34,080
+in the industry the cyber security
+
+1819
+01:17:31,679 --> 01:17:36,960
+industry
+
+1820
+01:17:34,080 --> 01:17:39,960
+who and what sort of
+
+1821
+01:17:36,960 --> 01:17:42,560
+development or service provider to be
+
+1822
+01:17:39,960 --> 01:17:46,100
+able to immediately the
+
+1823
+01:17:42,560 --> 01:17:46,100
+AE application
+
+1824
+01:17:48,420 --> 01:17:52,320
+um so primarily right one of our
+
+1825
+01:17:50,699 --> 01:17:54,840
+particular Department Of Interest or our
+
+1826
+01:17:52,320 --> 01:17:57,000
+new audiences is basically the creators
+
+1827
+01:17:54,840 --> 01:18:01,100
+the managers of the studying technology
+
+1828
+01:17:57,000 --> 01:18:01,100
+so there are a bunch of vendors
+
+1829
+01:18:04,219 --> 01:18:08,940
+which produce uh these you know
+
+1830
+01:18:06,960 --> 01:18:11,280
+handy-dandy tool tips for deception
+
+1831
+01:18:08,940 --> 01:18:13,340
+Operating Officer engagement right it'd
+
+1832
+01:18:11,280 --> 01:18:16,140
+be really useful for them to add support
+
+1833
+01:18:13,340 --> 01:18:18,980
+to exporting their information from
+
+1834
+01:18:16,140 --> 01:18:21,719
+their systems into some representations
+
+1835
+01:18:18,980 --> 01:18:23,520
+and that might be really useful for one
+
+1836
+01:18:21,719 --> 01:18:25,560
+transplant information over to other
+
+1837
+01:18:23,520 --> 01:18:27,540
+departments and other people have other
+
+1838
+01:18:25,560 --> 01:18:30,980
+businesses to analyze in that data the
+
+1839
+01:18:27,540 --> 01:18:30,980
+two also keeps standardized
+
+1840
+01:18:33,900 --> 01:18:37,860
+Asian and CM
+
+1841
+01:18:35,760 --> 01:18:40,679
+do we have any questions from the online
+
+1842
+01:18:37,860 --> 01:18:43,040
+audience we are watching your camera
+
+1843
+01:18:40,679 --> 01:18:43,040
+view
+
+1844
+01:18:52,920 --> 01:18:57,659
+like this you've done such a great job
+
+1845
+01:18:55,199 --> 01:19:00,719
+in exactly your work you are absolutely
+
+1846
+01:18:57,659 --> 01:19:04,580
+so I'm going to ask another question to
+
+1847
+01:19:00,719 --> 01:19:04,580
+get the ball rolling I'm sorry again
+
+1848
+01:19:04,699 --> 01:19:11,159
+even to me who's been involved in uh the
+
+1849
+01:19:09,060 --> 01:19:12,360
+development
+
+1850
+01:19:11,159 --> 01:19:14,880
+um
+
+1851
+01:19:12,360 --> 01:19:19,679
+so I remember we had to go through
+
+1852
+01:19:14,880 --> 01:19:23,820
+multiple revisions uh our design for
+
+1853
+01:19:19,679 --> 01:19:26,540
+hematology classes and so on
+
+1854
+01:19:23,820 --> 01:19:26,540
+if
+
+1855
+01:19:26,760 --> 01:19:35,159
+um what are the major concerns in terms
+
+1856
+01:19:32,280 --> 01:19:38,219
+of the calming provisions and their
+
+1857
+01:19:35,159 --> 01:19:41,100
+alignment and compatibility with UCO
+
+1858
+01:19:38,219 --> 01:19:43,980
+if you think the user Community should
+
+1859
+01:19:41,100 --> 01:19:47,360
+be aware managing on ions
+
+1860
+01:19:43,980 --> 01:19:47,360
+um from what I know
+
+1861
+01:19:49,620 --> 01:19:54,179
+proposal are going to be implemented or
+
+1862
+01:19:51,840 --> 01:19:56,580
+are on sale or some of the properties
+
+1863
+01:19:54,179 --> 01:19:58,699
+are going to full cover
+
+1864
+01:19:56,580 --> 01:19:58,699
+um
+
+1865
+01:19:59,120 --> 01:20:04,920
+it's going to cover some other Concepts
+
+1866
+01:20:02,159 --> 01:20:07,199
+that we they initially had alternative
+
+1867
+01:20:04,920 --> 01:20:10,860
+for but then we had to remove it because
+
+1868
+01:20:07,199 --> 01:20:13,140
+it would probably the design process or
+
+1869
+01:20:10,860 --> 01:20:15,900
+integrated use
+
+1870
+01:20:13,140 --> 01:20:19,140
+um so it really depends we kind of
+
+1871
+01:20:15,900 --> 01:20:23,520
+standardize our productology based on
+
+1872
+01:20:19,140 --> 01:20:25,920
+UCO 1.00 version right and so we want to
+
+1873
+01:20:23,520 --> 01:20:27,540
+keep that main support from that if they
+
+1874
+01:20:25,920 --> 01:20:29,460
+you still come out with another visual
+
+1875
+01:20:27,540 --> 01:20:31,500
+version of Standard Version or something
+
+1876
+01:20:29,460 --> 01:20:35,420
+like that they will have to go back and
+
+1877
+01:20:31,500 --> 01:20:38,340
+revise that didn't come up um
+
+1878
+01:20:35,420 --> 01:20:40,620
+still use the first version right but be
+
+1879
+01:20:38,340 --> 01:20:45,560
+aware that so many differences when you
+
+1880
+01:20:40,620 --> 01:20:45,560
+try to use a newer version of you so
+
+1881
+01:20:52,380 --> 01:20:57,000
+thank you
+
+1882
+01:20:54,239 --> 01:20:59,219
+still new questions can we keep going I
+
+1883
+01:20:57,000 --> 01:21:03,120
+have menu
+
+1884
+01:20:59,219 --> 01:21:05,580
+uh if somebody respond to that um
+
+1885
+01:21:03,120 --> 01:21:07,500
+hi uh folks Nelson again
+
+1886
+01:21:05,580 --> 01:21:09,060
+um speaking on my roles UCL ontology
+
+1887
+01:21:07,500 --> 01:21:09,739
+committee chair
+
+1888
+01:21:09,060 --> 01:21:14,460
+um
+
+1889
+01:21:09,739 --> 01:21:17,580
+when UCO released its 1.0 version back
+
+1890
+01:21:14,460 --> 01:21:20,580
+in uh I think it was September of last
+
+1891
+01:21:17,580 --> 01:21:22,620
+year uh we made a commitment to follow
+
+1892
+01:21:20,580 --> 01:21:25,080
+semantic versioning uh specifically
+
+1893
+01:21:22,620 --> 01:21:27,060
+September 2.0 uh you can see it's
+
+1894
+01:21:25,080 --> 01:21:29,460
+semper.org
+
+1895
+01:21:27,060 --> 01:21:32,400
+um that commitment is that we will not
+
+1896
+01:21:29,460 --> 01:21:36,540
+introduce backwards incompatible changes
+
+1897
+01:21:32,400 --> 01:21:38,520
+until the next major release and by
+
+1898
+01:21:36,540 --> 01:21:40,920
+operational Rhythm that release was
+
+1899
+01:21:38,520 --> 01:21:42,719
+going to be planned for if we were in a
+
+1900
+01:21:40,920 --> 01:21:45,960
+crunch and found something horrible six
+
+1901
+01:21:42,719 --> 01:21:49,199
+months uh that'll be about next week
+
+1902
+01:21:45,960 --> 01:21:51,600
+um we are not finding such a an urgent
+
+1903
+01:21:49,199 --> 01:21:55,440
+need for a 2.0 right now so we are
+
+1904
+01:21:51,600 --> 01:21:58,739
+planning at around a year uh we would do
+
+1905
+01:21:55,440 --> 01:22:00,719
+um our first uh 2.0 release introducing
+
+1906
+01:21:58,739 --> 01:22:03,960
+backwards incompatible changes so
+
+1907
+01:22:00,719 --> 01:22:07,080
+anything that you see in version 1.0 or
+
+1908
+01:22:03,960 --> 01:22:09,900
+1.1 so on right now or 1.2 coming out in
+
+1909
+01:22:07,080 --> 01:22:13,020
+the next couple weeks um anything you
+
+1910
+01:22:09,900 --> 01:22:15,480
+see in there will still work with uh
+
+1911
+01:22:13,020 --> 01:22:18,620
+shackle validation uh so the conformance
+
+1912
+01:22:15,480 --> 01:22:21,480
+checking system until our 2.0 release
+
+1913
+01:22:18,620 --> 01:22:24,179
+and with our first backwards and
+
+1914
+01:22:21,480 --> 01:22:27,120
+compatible change set after the December
+
+1915
+01:22:24,179 --> 01:22:29,580
+1.0 release we'll have like a discussion
+
+1916
+01:22:27,120 --> 01:22:31,679
+among the ontology committee uh we're
+
+1917
+01:22:29,580 --> 01:22:33,420
+going to flag something as a warning
+
+1918
+01:22:31,679 --> 01:22:35,159
+when do we start flagging as an error
+
+1919
+01:22:33,420 --> 01:22:37,320
+we've had some people say we need a year
+
+1920
+01:22:35,159 --> 01:22:39,540
+for our engineering teams uh before you
+
+1921
+01:22:37,320 --> 01:22:42,179
+say it's an outright error
+
+1922
+01:22:39,540 --> 01:22:43,800
+um that kind of feedback is what we look
+
+1923
+01:22:42,179 --> 01:22:47,520
+forward to getting from the community as
+
+1924
+01:22:43,800 --> 01:22:49,500
+we plan for our Tour release uh so uh
+
+1925
+01:22:47,520 --> 01:22:52,739
+ants if there is something that comes in
+
+1926
+01:22:49,500 --> 01:22:55,080
+as a potential new feature it might step
+
+1927
+01:22:52,739 --> 01:22:56,699
+on your toes uh because you said I
+
+1928
+01:22:55,080 --> 01:22:58,620
+really wanted that but if it's available
+
+1929
+01:22:56,699 --> 01:23:01,380
+in UCO it's available to the broader
+
+1930
+01:22:58,620 --> 01:23:03,600
+application space as well so
+
+1931
+01:23:01,380 --> 01:23:06,420
+um it's actually someone to be benefited
+
+1932
+01:23:03,600 --> 01:23:09,420
+to have something uh implemented further
+
+1933
+01:23:06,420 --> 01:23:11,699
+Upstream uh for availability purposes uh
+
+1934
+01:23:09,420 --> 01:23:14,100
+but if we do get something that does
+
+1935
+01:23:11,699 --> 01:23:15,540
+look like it's in the middle layer
+
+1936
+01:23:14,100 --> 01:23:16,980
+instead of the application layer it's
+
+1937
+01:23:15,540 --> 01:23:20,300
+good to know that we're actually meeting
+
+1938
+01:23:16,980 --> 01:23:20,300
+the application where the needs
+
+1939
+01:23:21,199 --> 01:23:25,920
+go ahead
+
+1940
+01:23:23,219 --> 01:23:28,080
+uh good I was being concur with this
+
+1941
+01:23:25,920 --> 01:23:30,179
+Sean Barnum sorry with miter um also
+
+1942
+01:23:28,080 --> 01:23:32,520
+heavily involved throughout founding UCL
+
+1943
+01:23:30,179 --> 01:23:35,159
+a lot of the stuff with CDO and have
+
+1944
+01:23:32,520 --> 01:23:37,260
+been working closely with uh vaheed and
+
+1945
+01:23:35,159 --> 01:23:38,580
+I think all the rest of the team on the
+
+1946
+01:23:37,260 --> 01:23:40,199
+AEO stuff
+
+1947
+01:23:38,580 --> 01:23:41,699
+um I agree with Alex completely as far
+
+1948
+01:23:40,199 --> 01:23:44,340
+as the the semantic versioning and major
+
+1949
+01:23:41,699 --> 01:23:47,699
+changes to UCO causing big changes up
+
+1950
+01:23:44,340 --> 01:23:49,679
+into AEO I I would suspect it's likely
+
+1951
+01:23:47,699 --> 01:23:51,300
+the changes that ACO that might triple
+
+1952
+01:23:49,679 --> 01:23:54,659
+are probably going to be more along the
+
+1953
+01:23:51,300 --> 01:23:57,360
+lines of some of the concepts that don't
+
+1954
+01:23:54,659 --> 01:23:59,940
+currently exist in UCO but likely should
+
+1955
+01:23:57,360 --> 01:24:01,920
+for AEO and other Pros doing so the
+
+1956
+01:23:59,940 --> 01:24:03,060
+concept is objective that's something
+
+1957
+01:24:01,920 --> 01:24:04,679
+that's needed by lots of different
+
+1958
+01:24:03,060 --> 01:24:07,199
+application domains but it's not there
+
+1959
+01:24:04,679 --> 01:24:09,360
+right now so AEO has defined it
+
+1960
+01:24:07,199 --> 01:24:10,500
+internally right now there's things like
+
+1961
+01:24:09,360 --> 01:24:12,840
+that there's some of the things that
+
+1962
+01:24:10,500 --> 01:24:14,600
+will be part of the CTI applications I
+
+1963
+01:24:12,840 --> 01:24:18,179
+mean ontology and that could uh
+
+1964
+01:24:14,600 --> 01:24:20,159
+submitted in as just like a CEO is so
+
+1965
+01:24:18,179 --> 01:24:22,380
+it'll likely be things like that that
+
+1966
+01:24:20,159 --> 01:24:24,600
+when there is the more natural place for
+
+1967
+01:24:22,380 --> 01:24:26,760
+that concept to be defined either in UCO
+
+1968
+01:24:24,600 --> 01:24:29,820
+or a different application ontology it
+
+1969
+01:24:26,760 --> 01:24:32,219
+would be simply a matter of within AEO
+
+1970
+01:24:29,820 --> 01:24:33,780
+can still deal with that concept it's
+
+1971
+01:24:32,219 --> 01:24:35,760
+primarily its namespace that would
+
+1972
+01:24:33,780 --> 01:24:37,739
+change so right so the namespace for
+
+1973
+01:24:35,760 --> 01:24:41,940
+that concept you would just reference it
+
+1974
+01:24:37,739 --> 01:24:43,500
+from UCO references from like CTI and it
+
+1975
+01:24:41,940 --> 01:24:45,659
+shouldn't structurally change anything
+
+1976
+01:24:43,500 --> 01:24:47,940
+but it would probably cause a little bit
+
+1977
+01:24:45,659 --> 01:24:49,620
+of a ripple up on hey well now you guys
+
+1978
+01:24:47,940 --> 01:24:52,080
+you know ADM no longer has to worry
+
+1979
+01:24:49,620 --> 01:24:53,280
+about being the native uh Keeper of the
+
+1980
+01:24:52,080 --> 01:24:55,020
+torch for one of those things that
+
+1981
+01:24:53,280 --> 01:24:56,880
+really primarily belongs somewhere else
+
+1982
+01:24:55,020 --> 01:24:58,500
+you would be able to reference and use
+
+1983
+01:24:56,880 --> 01:25:00,840
+it from somewhere else I think that's
+
+1984
+01:24:58,500 --> 01:25:03,000
+likely to be more of the changes that
+
+1985
+01:25:00,840 --> 01:25:05,219
+triple up rather than anything big
+
+1986
+01:25:03,000 --> 01:25:08,040
+structural UCO stuff like like Alex was
+
+1987
+01:25:05,219 --> 01:25:09,659
+saying where the governance is trying to
+
+1988
+01:25:08,040 --> 01:25:10,980
+keep those thanks to a minimum right
+
+1989
+01:25:09,659 --> 01:25:13,080
+especially as more application of
+
+1990
+01:25:10,980 --> 01:25:15,840
+manitologies come in those sorts of
+
+1991
+01:25:13,080 --> 01:25:17,640
+ripples become ways very quickly so the
+
+1992
+01:25:15,840 --> 01:25:20,040
+government in this process is very much
+
+1993
+01:25:17,640 --> 01:25:22,640
+intended to minimize that
+
+1994
+01:25:20,040 --> 01:25:22,640
+foreign
+
+1995
+01:25:38,400 --> 01:25:44,040
+one of the things that you should
+
+1996
+01:25:40,440 --> 01:25:45,840
+consider is joining you know kind of
+
+1997
+01:25:44,040 --> 01:25:48,900
+like joining one of these open source
+
+1998
+01:25:45,840 --> 01:25:51,420
+projects it doesn't have to be cyber
+
+1999
+01:25:48,900 --> 01:25:53,640
+domeology project although a little
+
+2000
+01:25:51,420 --> 01:25:55,020
+biased maybe you should
+
+2001
+01:25:53,640 --> 01:25:57,600
+um but you know while you're in school
+
+2002
+01:25:55,020 --> 01:26:01,440
+and you're studying uh for four six
+
+2003
+01:25:57,600 --> 01:26:04,560
+eight years maybe more sometimes it's
+
+2004
+01:26:01,440 --> 01:26:07,139
+good to get out and take part in these
+
+2005
+01:26:04,560 --> 01:26:09,000
+these efforts where you can collaborate
+
+2006
+01:26:07,139 --> 01:26:11,219
+and you can learn new things you can
+
+2007
+01:26:09,000 --> 01:26:13,920
+apply the skills that you're learning
+
+2008
+01:26:11,219 --> 01:26:16,620
+here in the University it also gives you
+
+2009
+01:26:13,920 --> 01:26:18,719
+the ability to meet lots of people from
+
+2010
+01:26:16,620 --> 01:26:20,400
+you know from industry made by mentors
+
+2011
+01:26:18,719 --> 01:26:22,199
+there you may find Future employers
+
+2012
+01:26:20,400 --> 01:26:23,760
+there you may find Future technical
+
+2013
+01:26:22,199 --> 01:26:26,520
+collaborators there
+
+2014
+01:26:23,760 --> 01:26:29,580
+and and so you know over the years uh
+
+2015
+01:26:26,520 --> 01:26:32,340
+with the with this ongoing engagement uh
+
+2016
+01:26:29,580 --> 01:26:34,260
+with with the University of New Haven uh
+
+2017
+01:26:32,340 --> 01:26:36,840
+we've actually had a number of students
+
+2018
+01:26:34,260 --> 01:26:39,960
+over the years from UNH having
+
+2019
+01:26:36,840 --> 01:26:41,639
+participate in this in this open source
+
+2020
+01:26:39,960 --> 01:26:44,520
+community
+
+2021
+01:26:41,639 --> 01:26:45,780
+um so the the offer is still open for
+
+2022
+01:26:44,520 --> 01:26:47,699
+any students that are interested in
+
+2023
+01:26:45,780 --> 01:26:49,679
+coming and joining
+
+2024
+01:26:47,699 --> 01:26:51,780
+um and so you know like what what might
+
+2025
+01:26:49,679 --> 01:26:52,739
+we be looking for
+
+2026
+01:26:51,780 --> 01:26:55,679
+um well
+
+2027
+01:26:52,739 --> 01:26:59,400
+certainly we're looking for uh computer
+
+2028
+01:26:55,679 --> 01:27:00,600
+scientists to come and join our adoption
+
+2029
+01:26:59,400 --> 01:27:04,020
+committee
+
+2030
+01:27:00,600 --> 01:27:10,440
+uh they're uh there's definitely a big
+
+2031
+01:27:04,020 --> 01:27:15,719
+demand uh we need uh uh essers we need
+
+2032
+01:27:10,440 --> 01:27:18,120
+people to help us just manage concepted
+
+2033
+01:27:15,719 --> 01:27:20,699
+owners uh we need people to help us
+
+2034
+01:27:18,120 --> 01:27:23,040
+manage change just just managing change
+
+2035
+01:27:20,699 --> 01:27:26,400
+proposals as they come in
+
+2036
+01:27:23,040 --> 01:27:29,219
+um and uh and there's a myriad of other
+
+2037
+01:27:26,400 --> 01:27:31,560
+of other things and so that's not what
+
+2038
+01:27:29,219 --> 01:27:34,199
+you saw today if you see something in an
+
+2039
+01:27:31,560 --> 01:27:36,179
+interview like hey I'm really interested
+
+2040
+01:27:34,199 --> 01:27:38,219
+in that one thing Corey talked about I
+
+2041
+01:27:36,179 --> 01:27:39,360
+mean it's talked about what I'm ready to
+
+2042
+01:27:38,219 --> 01:27:41,580
+talk about
+
+2043
+01:27:39,360 --> 01:27:44,940
+just raise your hand and say hey I'd
+
+2044
+01:27:41,580 --> 01:27:46,980
+like to maybe give one hour a month you
+
+2045
+01:27:44,940 --> 01:27:48,480
+know to volunteer for this or two hours
+
+2046
+01:27:46,980 --> 01:27:50,699
+long or something
+
+2047
+01:27:48,480 --> 01:27:53,219
+um you certainly can work that with with
+
+2048
+01:27:50,699 --> 01:27:58,100
+your faculty members uh to maybe
+
+2049
+01:27:53,219 --> 01:27:58,100
+incorporate that into uh Focus study
+
+2050
+01:28:04,739 --> 01:28:09,480
+um and also if you're interested in
+
+2051
+01:28:06,179 --> 01:28:13,260
+contributing uh or or helping recruit
+
+2052
+01:28:09,480 --> 01:28:15,960
+other oncology efforts uh that you might
+
+2053
+01:28:13,260 --> 01:28:18,600
+know about to come enjoy December uh we
+
+2054
+01:28:15,960 --> 01:28:21,000
+certainly would but would welcome that
+
+2055
+01:28:18,600 --> 01:28:22,920
+uh so just a concept but if anyone have
+
+2056
+01:28:21,000 --> 01:28:23,639
+any questions about that sort of thing
+
+2057
+01:28:22,920 --> 01:28:26,060
+about how you might be able to
+
+2058
+01:28:23,639 --> 01:28:26,060
+participate
+
+2059
+01:28:28,199 --> 01:28:30,739
+no
+
+2060
+01:28:32,179 --> 01:28:38,940
+no uh the Linux Foundation uh projects
+
+2061
+01:28:36,239 --> 01:28:42,000
+are completely open to the entire world
+
+2062
+01:28:38,940 --> 01:28:42,780
+so no matter who you are where you come
+
+2063
+01:28:42,000 --> 01:28:46,320
+from
+
+2064
+01:28:42,780 --> 01:28:49,860
+uh you're more than welcome uh
+
+2065
+01:28:46,320 --> 01:28:52,139
+one of the I would say you should at
+
+2066
+01:28:49,860 --> 01:28:53,219
+least be a fairly conversant English
+
+2067
+01:28:52,139 --> 01:28:55,500
+language
+
+2068
+01:28:53,219 --> 01:28:57,060
+uh that's that's probably about the only
+
+2069
+01:28:55,500 --> 01:29:00,060
+requirement just because the rest of the
+
+2070
+01:28:57,060 --> 01:29:02,699
+community operates within English
+
+2071
+01:29:00,060 --> 01:29:06,800
+language but but outside of that they're
+
+2072
+01:29:02,699 --> 01:29:06,800
+really hard no hard requirements
+
+2073
+01:29:07,580 --> 01:29:12,900
+in wonderful Avenue of opportunities to
+
+2074
+01:29:11,280 --> 01:29:14,639
+explore and thank you for that great
+
+2075
+01:29:12,900 --> 01:29:16,620
+right
+
+2076
+01:29:14,639 --> 01:29:20,159
+um I believe there are no other
+
+2077
+01:29:16,620 --> 01:29:22,980
+questions so I can't I can't explain
+
+2078
+01:29:20,159 --> 01:29:24,540
+myself I need to ask one more
+
+2079
+01:29:22,980 --> 01:29:27,480
+Nancy
+
+2080
+01:29:24,540 --> 01:29:29,340
+um for those who are following this live
+
+2081
+01:29:27,480 --> 01:29:31,380
+or those who are watching this little
+
+2082
+01:29:29,340 --> 01:29:33,780
+coordinator on
+
+2083
+01:29:31,380 --> 01:29:35,699
+where can you go and what they have
+
+2084
+01:29:33,780 --> 01:29:38,239
+access to to start playing around with
+
+2085
+01:29:35,699 --> 01:29:41,960
+the current version
+
+2086
+01:29:38,239 --> 01:29:41,960
+it was available
+
+2087
+01:29:45,920 --> 01:29:52,080
+our website
+
+2088
+01:29:49,020 --> 01:29:55,159
+outlines are in our motivations can I
+
+2089
+01:29:52,080 --> 01:29:55,159
+give you a link for our positive
+
+2090
+01:29:56,340 --> 01:30:02,460
+repository we have an example you can
+
+2091
+01:30:00,420 --> 01:30:05,400
+run through the access tutorials right
+
+2092
+01:30:02,460 --> 01:30:07,139
+so there's a small explainable
+
+2093
+01:30:05,400 --> 01:30:09,659
+uh follow up like walk through
+
+2094
+01:30:07,139 --> 01:30:11,179
+documentation that shows you how each
+
+2095
+01:30:09,659 --> 01:30:14,340
+particularities
+
+2096
+01:30:11,179 --> 01:30:16,199
+what the purposes of specific classes
+
+2097
+01:30:14,340 --> 01:30:18,840
+and homes who really is managing these
+
+2098
+01:30:16,199 --> 01:30:20,699
+responses into design we have three
+
+2099
+01:30:18,840 --> 01:30:23,699
+examples and then we have
+
+2100
+01:30:20,699 --> 01:30:23,699
+them
+
+2101
+01:30:30,480 --> 01:30:34,679
+um
+
+2102
+01:30:31,139 --> 01:30:37,199
+we also have generating from uh homicide
+
+2103
+01:30:34,679 --> 01:30:40,260
+or unboxing which generates automated
+
+2104
+01:30:37,199 --> 01:30:42,600
+docs for our our on policy so you can
+
+2105
+01:30:40,260 --> 01:30:44,520
+check that out too so if you want to you
+
+2106
+01:30:42,600 --> 01:30:47,159
+know short planes to be able to go and
+
+2107
+01:30:44,520 --> 01:30:50,460
+see what cool classes are there or what
+
+2108
+01:30:47,159 --> 01:30:52,020
+are specifically you know how to use so
+
+2109
+01:30:50,460 --> 01:30:57,199
+far what's available to you right you
+
+2110
+01:30:52,020 --> 01:30:57,199
+can just do that too UCO also uses it um
+
+2111
+01:31:05,940 --> 01:31:10,679
+thank you very much Nancy
+
+2112
+01:31:08,219 --> 01:31:14,360
+um let's just thank all the speakers of
+
+2113
+01:31:10,679 --> 01:31:14,360
+the day spent one more time
+
+2114
+01:31:16,340 --> 01:31:22,280
+to uh
+
+2115
+01:31:19,380 --> 01:31:22,280
+to Alice
+
+2116
+01:31:22,520 --> 01:31:27,600
+everyone else who helped with putting
+
+2117
+01:31:25,500 --> 01:31:29,600
+the seminar together
+
+2118
+01:31:27,600 --> 01:31:29,600
+um
+
+2119
+01:31:30,380 --> 01:31:34,800
+circulation Anthology we are going to go
+
+2120
+01:31:33,659 --> 01:31:37,679
+out and
+
+2121
+01:31:34,800 --> 01:31:39,360
+spread the warrants and
+
+2122
+01:31:37,679 --> 01:31:42,239
+um
+
+2123
+01:31:39,360 --> 01:31:46,320
+we have an easier polls coming hopefully
+
+2124
+01:31:42,239 --> 01:31:49,320
+we'll have more Asian coming but what it
+
+2125
+01:31:46,320 --> 01:31:53,400
+would really appreciated is feedback and
+
+2126
+01:31:49,320 --> 01:31:56,040
+engagement from the industry as well as
+
+2127
+01:31:53,400 --> 01:32:01,760
+research and academic Community called
+
+2128
+01:31:56,040 --> 01:32:05,940
+role this uh effort thank you everyone
+
+2129
+01:32:01,760 --> 01:32:09,739
+and have a great day
+
+2130
+01:32:05,940 --> 01:32:09,739
+thank you thank you
+
+2131
+01:32:13,639 --> 01:32:17,060
+thank you
+
